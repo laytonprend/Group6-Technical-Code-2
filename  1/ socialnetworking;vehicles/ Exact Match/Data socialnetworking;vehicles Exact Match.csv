@@ -1,8 +1,0 @@
-year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
-2010,2,0.0,5968.0,13.87379716,15.60156596,True,socialnetworking;vehicles
-2011,2,0.0,5968.0,13.87379716,15.60156596,True,socialnetworking;vehicles
-2012,2,0.0,5968.0,13.87379716,15.60156596,True,socialnetworking;vehicles
-2013,2,0.0,16462.0,16.23688221,16.6881,True,socialnetworking;vehicles
-2014,2,0.0,16462.0,16.23688221,16.6881,True,socialnetworking;vehicles
-2015,1,0.0,16462.0,16.23688221,16.6881,True,socialnetworking;vehicles
-2016,1,0.0,16462.0,16.23688221,16.6881,True,socialnetworking;vehicles
