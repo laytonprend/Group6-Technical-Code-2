@@ -1,0 +1,13 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2008,2,0.0,5895.0,14.96315356,0.0,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2009,1,0.0,5895.0,14.96315356,0.0,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2010,3,0.0,4766.666666666667,13.808961516666665,0.0,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2011,4,0.0,4326.5,13.231865495,0.0,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2012,4,0.0,4436.25,13.37492831,0.0,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2013,4,1.25,4799.0,12.93384351,3.8231164125,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2014,6,1.6666666666666667,5594.833333333333,13.289991745,5.097488551666667,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2015,4,0.0,4986.25,13.4053639625,0.0,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2016,3,0.0,4110.333333333333,12.886100763333333,0.0,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2017,1,0.0,2345.0,11.84757436,0.0,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2018,4,6.0,11134.0,12.173078055000001,13.744777905,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
+2019,6,3.5,10062.666666666666,12.606926628333333,14.559678678333334,False,economyandfinance;entertainment - economyandfinance;entertainment;newsandmedia - economyandfinance;entertainment;shopping - 
