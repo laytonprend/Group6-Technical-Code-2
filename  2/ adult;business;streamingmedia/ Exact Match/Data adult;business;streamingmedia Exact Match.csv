@@ -1,0 +1,16 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2004,1,3.0,16377.0,17.15671968,18.31540923,True,adult;business;streamingmedia
+2005,2,3.0,16377.0,17.15671968,18.31540923,True,adult;business;streamingmedia
+2006,2,3.0,16377.0,17.15671968,18.31540923,True,adult;business;streamingmedia
+2007,2,3.0,16377.0,17.15671968,18.31540923,True,adult;business;streamingmedia
+2008,1,3.0,16377.0,17.15671968,18.31540923,True,adult;business;streamingmedia
+2009,2,3.0,16377.0,17.15671968,18.31540923,True,adult;business;streamingmedia
+2010,2,3.0,16377.0,17.15671968,18.31540923,True,adult;business;streamingmedia
+2011,3,2.0,13262.33333,14.65128557,16.45863444,True,adult;business;streamingmedia
+2012,5,1.2,11081.2,14.20650963,16.35698439,True,adult;business;streamingmedia
+2013,4,0.75,9910.25,14.94433994,16.9857022,True,adult;business;streamingmedia
+2014,4,0.0,7878.5,13.00451966,15.53165455,True,adult;business;streamingmedia
+2015,4,0.0,8906.5,13.16089724,15.70669007,True,adult;business;streamingmedia
+2016,3,0.0,10680.33333,14.32953636,16.55073521,True,adult;business;streamingmedia
+2017,2,0.0,9942.5,13.27812788,15.77661971,True,adult;business;streamingmedia
+2018,2,0.0,12130.0,16.32436939,18.0989662,True,adult;business;streamingmedia

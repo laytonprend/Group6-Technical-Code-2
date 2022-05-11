@@ -1,0 +1,18 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2003,1,0.0,1570.0,10.898245900000001,,True,blogsandpersonal;business;informationtech
+2004,2,0.0,1570.0,10.898245900000001,,True,blogsandpersonal;business;informationtech
+2005,2,0.0,1570.0,10.898245900000001,,True,blogsandpersonal;business;informationtech
+2006,2,0.0,1570.0,10.898245900000001,,True,blogsandpersonal;business;informationtech
+2007,4,0.0,3299.0,12.57545913,,True,blogsandpersonal;business;informationtech
+2008,3,0.0,2537.666667,14.01362708,,True,blogsandpersonal;business;informationtech
+2009,4,0.5,4967.25,13.25060017,13.13320456,True,blogsandpersonal;business;informationtech
+2010,13,0.3076923076923077,3946.3076920000003,12.00062066,13.13320456,True,blogsandpersonal;business;informationtech
+2011,20,0.2,3835.95,11.86460658,13.62549571,True,blogsandpersonal;business;informationtech
+2012,25,0.16,4605.16,12.20098454,13.76887298,True,blogsandpersonal;business;informationtech
+2013,34,0.11764705882352941,3846.617647,12.30734874,13.81666965,True,blogsandpersonal;business;informationtech
+2014,28,0.07142857142857142,4568.678571,12.43046586,13.68190009,True,blogsandpersonal;business;informationtech
+2015,31,0.12903225806451613,4390.451613,12.22490392,13.7962145,True,blogsandpersonal;business;informationtech
+2016,34,0.058823529411764705,4589.676471,12.28357412,13.72916662,True,blogsandpersonal;business;informationtech
+2017,32,0.09375,4489.15625,12.40126148,13.91686538,True,blogsandpersonal;business;informationtech
+2018,17,0.7058823529411765,5339.0,11.91233201,14.12075612,True,blogsandpersonal;business;informationtech
+2019,18,1.5,7231.555556,12.58138477,15.08558562,True,blogsandpersonal;business;informationtech

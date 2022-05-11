@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,1,3.0,7064.0,11.34644023,13.81666965,True,business;entertainment;streamingmedia
+2001,2,3.5,7637.5,12.43517833,14.73088482,True,business;entertainment;streamingmedia
+2002,2,0.0,4623.5,11.22218962,13.56908448,True,business;entertainment;streamingmedia
+2003,4,15.25,8428.5,12.77237987,14.41086994,True,business;entertainment;streamingmedia
+2004,4,17.0,9051.5,13.15263503,15.00621795,True,business;entertainment;streamingmedia
+2005,6,14.666666666666666,7475.0,13.26070614,15.00621795,True,business;entertainment;streamingmedia
+2006,8,11.875,7612.625,13.04850755,14.78041809,True,business;entertainment;streamingmedia
+2007,10,6.8,7595.5,13.07163762,14.85273316,True,business;entertainment;streamingmedia
+2008,13,4.153846153846154,7175.769231,13.15710139,14.95269222,True,business;entertainment;streamingmedia
+2009,18,2.888888888888889,6201.111111,13.3705428,15.418498199999998,True,business;entertainment;streamingmedia
+2010,20,2.55,6554.9,13.60978979,15.75118911,True,business;entertainment;streamingmedia
+2011,26,1.6538461538461537,5990.192308,13.16654025,15.44105387,True,business;entertainment;streamingmedia
+2012,27,2.2222222222222223,7032.407407,13.40591991,15.70013339,True,business;entertainment;streamingmedia
+2013,36,2.611111111111111,7904.527778,13.4081589,15.876791500000001,True,business;entertainment;streamingmedia
+2014,44,3.159090909090909,8729.022727,13.50539462,15.89545585,True,business;entertainment;streamingmedia
+2015,39,3.1025641025641026,8906.333333,13.57780991,15.95986304,True,business;entertainment;streamingmedia
+2016,50,3.72,12221.1,13.474881900000002,15.71517515,True,business;entertainment;streamingmedia
+2017,45,3.7111111111111112,9084.2,12.85301658,15.19411973,True,business;entertainment;streamingmedia
+2018,39,4.358974358974359,11955.4359,13.01845324,15.20372413,True,business;entertainment;streamingmedia
+2019,45,4.177777777777778,13839.822219999998,13.166234099999999,15.40207182,True,business;entertainment;streamingmedia

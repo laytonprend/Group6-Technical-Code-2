@@ -1,0 +1,6 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2014,3,3.3333333333333335,4948.666667,10.48373701,12.39948678,True,education;newsandmedia;travel
+2015,1,0.0,1204.0,10.23158974,,True,education;newsandmedia;travel
+2016,2,0.0,2621.0,13.63416534,,True,education;newsandmedia;travel
+2017,3,0.0,4960.333333,13.14039044,15.02112968,True,education;newsandmedia;travel
+2018,1,0.0,2610.0,13.48336661,,True,education;newsandmedia;travel

@@ -1,0 +1,14 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2002,1,0.0,9520.0,11.97235095,14.45898005,True,alcoholandtobacco;foodandrecipes;shopping
+2007,1,9.0,2315.0,10.47999817,,True,alcoholandtobacco;foodandrecipes;shopping
+2009,1,0.0,5205.0,11.45407297,13.86744224,True,alcoholandtobacco;foodandrecipes;shopping
+2010,4,0.0,3737.0,11.45407297,13.86744224,True,alcoholandtobacco;foodandrecipes;shopping
+2011,3,2.3333333333333335,3620.333333,12.91847438,14.36255379,True,alcoholandtobacco;foodandrecipes;shopping
+2012,4,3.5,4298.0,12.80719273,14.33829136,True,alcoholandtobacco;foodandrecipes;shopping
+2013,6,5.0,4272.333333,10.81737419,14.45806446,True,alcoholandtobacco;foodandrecipes;shopping
+2014,7,4.714285714285714,4621.142857,11.08822972,14.62575577,True,alcoholandtobacco;foodandrecipes;shopping
+2015,8,4.5,4280.5,11.43368874,14.64941154,True,alcoholandtobacco;foodandrecipes;shopping
+2016,5,3.4,5740.6,12.20927571,14.64941154,True,alcoholandtobacco;foodandrecipes;shopping
+2017,7,6.285714285714286,7774.857143000001,11.52053021,14.13052533,True,alcoholandtobacco;foodandrecipes;shopping
+2018,4,6.5,14129.5,12.83068602,14.64941154,True,alcoholandtobacco;foodandrecipes;shopping
+2019,4,6.75,12062.75,12.39487724,14.77430116,True,alcoholandtobacco;foodandrecipes;shopping

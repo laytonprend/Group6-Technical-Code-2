@@ -1,0 +1,11 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2010,1,0.0,3620.0,15.74628692,0.0,False,alcoholandtobacco;business;shopping - 
+2011,3,1.0,6622.666666666667,14.798876443333334,4.60555655,False,alcoholandtobacco;business;shopping - 
+2012,4,1.5,8124.0,14.3251712075,6.908334825,False,alcoholandtobacco;business;shopping - 
+2013,5,1.2,7558.2,14.685497104000001,5.52666786,False,alcoholandtobacco;business;shopping - 
+2014,4,0.75,6709.5,15.2259859475,3.4541674125,False,alcoholandtobacco;business;shopping - 
+2015,4,5.5,11218.25,14.49850185,15.6568545375,False,alcoholandtobacco;business;shopping - 
+2016,5,2.2,7762.8,13.939528572,8.742426894000001,False,alcoholandtobacco;business;shopping - 
+2017,2,1.5,10848.5,11.252202115,13.256097595,False,alcoholandtobacco;business;shopping - 
+2018,2,6.0,39767.5,11.97907332,13.280152655,False,alcoholandtobacco;business;shopping - 
+2019,2,4.5,15160.5,15.347634155,8.32396255,False,alcoholandtobacco;business;shopping - 

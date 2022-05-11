@@ -1,0 +1,15 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2006,3,0.0,4308.333333,10.90729292,14.26529262,True,drugs;education;health
+2007,2,0.0,8486.5,12.49606378,14.74336204,True,drugs;education;health
+2008,3,0.0,6848.0,11.96703895,14.74336204,True,drugs;education;health
+2009,2,0.0,9779.5,12.60648278,14.71999302,True,drugs;education;health
+2010,2,0.0,10129.0,12.47561017,14.45898005,True,drugs;education;health
+2011,4,1.75,10014.0,13.15642285,15.43463286,True,drugs;education;health
+2012,3,2.3333333333333335,10954.0,13.39494409,15.75103248,True,drugs;education;health
+2013,4,3.5,11365.0,13.65681695,15.90017884,True,drugs;education;health
+2014,5,4.8,10496.8,13.25615635,15.40959957,True,drugs;education;health
+2015,4,4.5,14205.5,11.87750091,13.95719258,True,drugs;education;health
+2016,4,4.5,16918.5,11.6923618,12.84861592,True,drugs;education;health
+2017,5,6.4,14175.4,12.61875292,13.98719602,True,drugs;education;health
+2018,4,8.0,12085.75,13.44355206,15.65341794,True,drugs;education;health
+2019,3,9.0,16783.66667,11.9680523,13.37142898,True,drugs;education;health
