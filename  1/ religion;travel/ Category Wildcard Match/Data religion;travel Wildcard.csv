@@ -1,0 +1,16 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2002,1,4.0,3538.0,15.70139706,0.0,False,religion;travel - 
+2003,2,4.0,3538.0,15.70139706,0.0,False,religion;travel - 
+2004,2,4.0,3538.0,15.70139706,0.0,False,religion;travel - 
+2006,2,4.0,3538.0,15.70139706,0.0,False,religion;travel - 
+2007,2,4.0,3538.0,15.70139706,0.0,False,religion;travel - 
+2008,1,0.0,4738.0,10.51313284,13.2950065,False,religion;travel - 
+2009,1,0.0,4738.0,10.51313284,13.2950065,False,religion;travel - 
+2010,2,0.0,4737.0,10.513132835,13.2950065,False,religion;travel - 
+2011,2,0.0,4932.0,10.414393285,13.10415689,False,religion;travel - 
+2012,2,0.0,3464.0,12.407175,6.456653635,False,religion;travel - 
+2013,2,0.0,1801.0,14.498696265,0.0,False,religion;travel - 
+2016,1,0.0,2905.0,14.83761714,0.0,False,religion;travel - 
+2017,1,0.0,2905.0,14.83761714,0.0,False,religion;travel - 
+2018,1,0.0,2899.0,14.83761714,0.0,False,religion;travel - 
+2019,2,13.0,23945.0,15.52069074,16.966058625,False,religion;travel - 

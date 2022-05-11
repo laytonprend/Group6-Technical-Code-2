@@ -1,0 +1,17 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2004,1,0.0,5229.0,11.59419461,13.81666965,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2005,3,0.0,2581.6666666666665,10.703727293333332,4.60555655,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2006,5,8.0,14870.6,12.375513048,11.75722366,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2007,4,10.0,22205.5,12.5751141925,14.4589800525,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2008,7,5.428571428571429,19642.428571428572,12.604879721428572,14.466932242857142,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2009,7,2.5714285714285716,15798.42857142857,12.989985638571428,12.266034211428572,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2010,14,4.5,23116.0,11.986221635714287,12.672296135714287,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2011,14,4.285714285714286,20673.928571428572,11.623126985714288,13.406786871428569,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2012,8,1.25,10306.875,12.9251231875,10.3177527675,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2013,10,0.4,12398.8,12.956884204,14.618594253000001,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2014,8,0.5,11443.375,12.46753329125,12.442463190000002,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2015,13,0.3076923076923077,15064.846153846154,12.037332884615383,12.975904238461538,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2016,20,0.8,16191.2,12.29792791,13.046146365000002,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2017,15,0.8,15903.533333333333,12.50321538666667,13.368215113333333,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2018,7,0.0,23451.714285714286,13.118188614285714,15.099239399999998,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 
+2019,18,0.0,25842.5,13.25712266111111,15.089519161111108,False,blogsandpersonal;business;socialnetworking - business;socialnetworking - 

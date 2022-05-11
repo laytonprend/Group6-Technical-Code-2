@@ -1,0 +1,10 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2011,2,4.5,7136.5,11.66494121,15.68848315,True,games;messageboardsandforums
+2012,6,2.3333333333333335,5552.833333,12.99446785,15.57818935,True,games;messageboardsandforums
+2013,9,2.6666666666666665,5300.0,12.54080788,15.58410126,True,games;messageboardsandforums
+2014,18,3.4444444444444446,6904.833333,12.81330691,15.16897894,True,games;messageboardsandforums
+2015,17,3.9411764705882355,7581.588234999999,12.9328412,14.91988396,True,games;messageboardsandforums
+2016,20,3.35,7720.85,12.79897714,15.0042513,True,games;messageboardsandforums
+2017,14,2.2142857142857144,6836.357143000001,12.47337149,14.72074235,True,games;messageboardsandforums
+2018,10,3.4,9929.3,12.33304633,14.99680789,True,games;messageboardsandforums
+2019,13,4.461538461538462,12887.46154,12.55314116,15.20987907,True,games;messageboardsandforums

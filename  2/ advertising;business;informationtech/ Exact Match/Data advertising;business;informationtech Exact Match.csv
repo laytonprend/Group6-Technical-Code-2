@@ -1,0 +1,15 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2006,1,2.0,4089.0,11.8356264,14.92929796,True,advertising;business;informationtech
+2007,1,6.0,5133.0,13.59317204,15.68848315,True,advertising;business;informationtech
+2008,2,3.0,4815.0,14.05115099,15.68848315,True,advertising;business;informationtech
+2009,3,4.0,4912.666667,13.89849134,15.68848315,True,advertising;business;informationtech
+2010,3,2.6666666666666665,6353.666667,13.68064849,15.29246565,True,advertising;business;informationtech
+2011,9,1.7777777777777777,6275.888889,12.76636191,15.38125404,True,advertising;business;informationtech
+2012,12,1.1666666666666667,6589.5,13.25770424,14.75703161,True,advertising;business;informationtech
+2013,20,2.1,8708.55,13.34240857,15.12079205,True,advertising;business;informationtech
+2014,24,3.0833333333333335,8828.125,13.6280685,15.29288467,True,advertising;business;informationtech
+2015,23,2.9565217391304346,8707.608696,13.98427379,15.43587386,True,advertising;business;informationtech
+2016,25,2.52,7673.04,13.78315733,15.39329871,True,advertising;business;informationtech
+2017,28,3.3214285714285716,8083.357143000001,14.20617094,15.74545622,True,advertising;business;informationtech
+2018,25,3.96,10897.56,13.65391523,15.23691501,True,advertising;business;informationtech
+2019,27,7.925925925925926,16390.518519999998,13.82341189,15.53900638,True,advertising;business;informationtech

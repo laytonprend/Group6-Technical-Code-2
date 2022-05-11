@@ -1,0 +1,17 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2002,2,2.0,9142.0,14.207493855,14.790194505,False,education;newsandmedia;shopping - 
+2003,2,2.0,9258.0,14.13453585,14.836745965,False,education;newsandmedia;shopping - 
+2004,1,2.0,9124.0,14.30518005,14.7901945,False,education;newsandmedia;shopping - 
+2006,1,2.0,9030.0,13.78595632,14.69652958,False,education;newsandmedia;shopping - 
+2007,1,2.0,8943.0,14.30518005,14.7901945,False,education;newsandmedia;shopping - 
+2008,2,2.0,8943.0,14.30518005,14.790194505,False,education;newsandmedia;shopping - 
+2009,2,2.0,8943.0,14.30518005,14.790194505,False,education;newsandmedia;shopping - 
+2010,2,2.0,9085.5,14.30518005,14.790194505,False,education;newsandmedia;shopping - 
+2011,2,2.0,9126.0,14.349676485,14.905662095,False,education;newsandmedia;shopping - 
+2012,2,3.5,8221.5,14.2443704,15.017961055,False,education;newsandmedia;shopping - 
+2013,3,3.0,8617.666666666666,14.278467806666667,14.911525936666665,False,education;newsandmedia;shopping - 
+2014,2,2.0,9331.5,14.0867853,14.553005125,False,education;newsandmedia;shopping - 
+2015,2,2.0,9276.0,14.30262657,14.836745965,False,education;newsandmedia;shopping - 
+2016,3,11.333333333333334,53204.666666666664,13.76140952,14.75250226,False,education;newsandmedia;shopping - 
+2017,3,12.333333333333334,68054.33333333333,14.322268193333334,15.438488436666667,False,education;newsandmedia;shopping - 
+2019,1,5.0,22154.0,16.45948844,16.60763045,False,education;newsandmedia;shopping - 

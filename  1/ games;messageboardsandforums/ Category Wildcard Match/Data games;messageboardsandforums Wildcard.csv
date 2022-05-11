@@ -1,0 +1,14 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2007,1,0.0,1871.0,11.6063522,0.0,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2008,2,0.0,1516.0,13.2742024,0.0,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2009,1,0.0,1516.0,13.2742024,0.0,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2010,2,0.0,1477.5,13.280011585,0.0,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2011,4,2.25,4287.75,12.475380990000001,3.9221207875,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2012,7,2.0,4965.142857142857,13.036089695714285,4.450911242857143,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2013,10,2.4,4935.9,12.519202882,4.675230378,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2014,18,3.4444444444444446,6904.833333333333,12.81330691111111,10.112652627777779,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2015,19,3.789473684210526,7190.631578947368,12.86714534894737,10.201515894736842,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2016,23,3.347826086956522,7313.782608695652,12.74061819304348,10.367862299130435,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2017,15,2.066666666666667,6491.2,12.463463914666669,10.795211060000002,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2018,12,2.8333333333333335,10189.666666666666,12.059211956666665,10.9593748275,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 
+2019,15,3.8666666666666667,13768.466666666667,12.49711714666667,13.735722140000002,False,education;games;messageboardsandforums - games;messageboardsandforums - games;messageboardsandforums;newsandmedia - 

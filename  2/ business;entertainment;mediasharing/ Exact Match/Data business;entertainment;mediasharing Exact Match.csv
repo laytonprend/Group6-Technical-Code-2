@@ -1,0 +1,19 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,1,0.0,4448.0,13.44814562,,True,business;entertainment;mediasharing
+2002,1,0.0,2176.0,12.76856168,,True,business;entertainment;mediasharing
+2003,2,0.0,2176.0,12.76856168,,True,business;entertainment;mediasharing
+2004,2,0.0,2176.0,12.76856168,,True,business;entertainment;mediasharing
+2006,4,6.5,9445.0,11.60720469,13.68788482,True,business;entertainment;mediasharing
+2007,5,5.2,7757.8,11.35378825,13.5591,True,business;entertainment;mediasharing
+2008,5,5.2,8556.6,11.56015888,13.66288365,True,business;entertainment;mediasharing
+2009,4,6.5,10413.75,11.50434973,13.66288365,True,business;entertainment;mediasharing
+2010,5,5.2,12220.4,13.097385300000001,15.17549183,True,business;entertainment;mediasharing
+2011,7,6.857142857142857,12891.71429,13.83414605,15.894824800000002,True,business;entertainment;mediasharing
+2012,8,6.0,12639.375,14.03653517,16.03852865,True,business;entertainment;mediasharing
+2013,10,4.8,10533.4,13.76691979,16.03852865,True,business;entertainment;mediasharing
+2014,9,5.888888888888889,12738.11111,14.135302900000001,16.06545097,True,business;entertainment;mediasharing
+2015,9,6.444444444444445,12929.0,14.09519717,15.976266599999999,True,business;entertainment;mediasharing
+2016,12,4.0,9896.666667,12.90389754,15.63516702,True,business;entertainment;mediasharing
+2017,9,5.888888888888889,11035.0,13.58577114,15.96117979,True,business;entertainment;mediasharing
+2018,12,5.0,15490.25,13.17288577,15.0676262,True,business;entertainment;mediasharing
+2019,9,5.0,13052.0,13.45286507,15.60351134,True,business;entertainment;mediasharing
