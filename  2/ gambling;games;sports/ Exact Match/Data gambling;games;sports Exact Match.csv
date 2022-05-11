@@ -1,0 +1,16 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,2,0.0,3854.0,10.73363405,12.91330727,True,gambling;games;sports
+2001,2,0.0,3854.0,10.73363405,12.91330727,True,gambling;games;sports
+2002,1,0.0,3908.0,10.96585784,12.96874232,True,gambling;games;sports
+2008,1,0.0,4633.0,11.73744267,13.45427322,True,gambling;games;sports
+2009,1,0.0,4738.0,11.73744267,13.45427322,True,gambling;games;sports
+2010,2,0.0,5069.5,11.85021621,13.73630645,True,gambling;games;sports
+2011,2,0.0,5159.0,11.93300628,13.99330682,True,gambling;games;sports
+2012,2,0.0,5199.0,12.17866452,14.01833969,True,gambling;games;sports
+2013,2,0.0,5199.0,12.1827957,14.01833969,True,gambling;games;sports
+2014,4,0.0,6679.0,13.68670558,15.56630859,True,gambling;games;sports
+2015,5,0.0,6117.2,14.00514447,16.18396141,True,gambling;games;sports
+2016,4,0.0,7203.0,14.25188632,16.90227739,True,gambling;games;sports
+2017,3,0.0,9024.666667,15.41579566,17.86639753,True,gambling;games;sports
+2018,4,0.0,10307.5,15.37209666,17.73105249,True,gambling;games;sports
+2019,2,0.0,10303.5,15.36840916,17.73105249,True,gambling;games;sports
