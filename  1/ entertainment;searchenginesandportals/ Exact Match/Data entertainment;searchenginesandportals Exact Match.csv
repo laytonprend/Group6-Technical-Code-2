@@ -1,8 +1,0 @@
-year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
-2013,1,7.0,12123.0,13.57872144,14.92929796,True,entertainment;searchenginesandportals
-2014,2,7.0,9577.0,13.29363769,14.64321115,True,entertainment;searchenginesandportals
-2015,1,7.0,11673.0,13.18087244,14.26529262,True,entertainment;searchenginesandportals
-2016,2,25.0,142411.0,12.06603242,13.65832258,True,entertainment;searchenginesandportals
-2017,2,25.0,163042.5,12.4987055,13.97802562,True,entertainment;searchenginesandportals
-2018,1,27.0,184437.0,12.74836981,13.24136018,True,entertainment;searchenginesandportals
-2019,1,28.0,219566.0,12.82923779,13.18742774,True,entertainment;searchenginesandportals
