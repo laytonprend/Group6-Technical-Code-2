@@ -1,0 +1,5 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2013,1,7.0,16921.0,12.97837053,15.5140388,True,entertainment;health
+2014,2,7.0,16921.0,12.97837053,15.5140388,True,entertainment;health
+2015,2,6.5,19523.0,12.8963666,15.93866259,True,entertainment;health
+2018,1,15.0,34076.0,15.941510699999998,17.76830261,True,entertainment;health

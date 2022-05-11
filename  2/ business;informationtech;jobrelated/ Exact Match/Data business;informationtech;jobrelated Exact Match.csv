@@ -1,0 +1,20 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2001,2,0.0,3910.5,13.55046094,,True,business;informationtech;jobrelated
+2002,3,0.0,10173.66667,12.68644018,14.60796942,True,business;informationtech;jobrelated
+2003,3,0.0,3904.666667,11.74575888,13.96827395,True,business;informationtech;jobrelated
+2004,11,0.0,3685.0,11.95806598,14.22560367,True,business;informationtech;jobrelated
+2005,10,1.0,6141.9,14.92189379,15.24647157,True,business;informationtech;jobrelated
+2006,18,1.1111111111111112,6755.166667,14.25488725,15.4895361,True,business;informationtech;jobrelated
+2007,18,1.4444444444444444,6833.444444,14.07879826,15.46795764,True,business;informationtech;jobrelated
+2008,22,1.7727272727272727,6819.4545450000005,13.1948907,15.560971900000002,True,business;informationtech;jobrelated
+2009,23,1.6956521739130435,6508.304348,13.28753659,15.56043684,True,business;informationtech;jobrelated
+2010,29,1.3103448275862069,6894.310345,13.70166843,15.82900481,True,business;informationtech;jobrelated
+2011,32,0.75,6163.21875,13.88320913,15.62081205,True,business;informationtech;jobrelated
+2012,45,1.2444444444444445,7713.022222,13.61011035,16.05721976,True,business;informationtech;jobrelated
+2013,40,1.575,7288.725,13.39121907,15.90422503,True,business;informationtech;jobrelated
+2014,41,1.2926829268292683,7897.414634000001,12.56599041,15.55644471,True,business;informationtech;jobrelated
+2015,44,0.8863636363636364,7279.2045450000005,12.87241829,15.71621707,True,business;informationtech;jobrelated
+2016,52,1.4807692307692308,8331.25,13.07551872,15.60825771,True,business;informationtech;jobrelated
+2017,49,1.816326530612245,9037.081633,13.09138015,15.5818054,True,business;informationtech;jobrelated
+2018,46,2.717391304347826,13437.82609,13.17114818,15.43871109,True,business;informationtech;jobrelated
+2019,37,1.4054054054054055,10574.37838,13.08886683,15.11463613,True,business;informationtech;jobrelated

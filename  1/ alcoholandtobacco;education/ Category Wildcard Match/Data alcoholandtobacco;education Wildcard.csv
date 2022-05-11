@@ -1,0 +1,20 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2001,1,0.0,3043.0,12.25197882,0.0,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2002,6,0.0,2467.6666666666665,9.78417695,0.0,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2003,3,0.0,3295.0,12.649550556666666,0.0,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2004,3,0.0,3691.6666666666665,12.808899723333333,0.0,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2005,4,0.0,3526.5,12.6696694975,0.0,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2006,5,0.4,4136.8,12.740008313999999,2.813635258,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2007,8,1.375,5129.125,12.52939484,7.211763855000001,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2008,11,0.36363636363636365,4961.454545454545,12.064829064545455,8.918683676363635,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2009,7,0.2857142857142857,4361.0,11.092013185714285,7.87163804,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2010,13,1.4615384615384615,4777.615384615385,11.45576818,8.8454963,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2011,16,2.125,5666.125,11.745406588125,10.715943151875,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2012,17,1.8235294117647058,5464.882352941177,12.05778774529412,9.163717802941179,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2013,17,1.6470588235294117,5540.588235294118,12.010801607058825,9.248636313529413,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2014,15,1.4,6497.333333333333,12.091054756000002,9.489864163333333,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2015,14,1.0,6417.5,12.014981743571427,8.136667401428571,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2016,17,0.4117647058823529,6286.117647058823,12.38734376,8.561406681176472,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2017,13,0.5384615384615384,6861.307692307692,12.323490034615386,7.820423446923076,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2018,10,2.5,12336.6,13.439350838000001,7.198549278,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 
+2019,16,1.125,10330.6875,12.24874049125,8.976385217499999,False,alcoholandtobacco;education - alcoholandtobacco;education;personals - alcoholandtobacco;education;shopping - alcoholandtobacco;education;travel - 

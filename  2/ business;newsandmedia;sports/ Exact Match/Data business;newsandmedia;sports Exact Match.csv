@@ -1,0 +1,20 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2001,1,3.0,7715.0,15.57000417,16.72815622,True,business;newsandmedia;sports
+2002,2,3.0,8307.0,15.440513099999999,16.70812811,True,business;newsandmedia;sports
+2003,2,3.0,7715.0,15.57000417,16.72815622,True,business;newsandmedia;sports
+2004,2,3.0,7715.0,15.57000417,16.72815622,True,business;newsandmedia;sports
+2005,3,6.0,12778.66667,15.02833938,16.77666169,True,business;newsandmedia;sports
+2006,2,8.0,21364.0,13.42250392,15.9605829,True,business;newsandmedia;sports
+2007,2,8.0,21284.0,13.0249215,15.57972269,True,business;newsandmedia;sports
+2008,5,4.4,13484.6,14.47903432,16.39917615,True,business;newsandmedia;sports
+2009,5,4.0,13516.4,14.92777732,16.79757574,True,business;newsandmedia;sports
+2010,6,6.0,16659.0,14.50076132,16.54652203,True,business;newsandmedia;sports
+2011,8,11.625,16979.75,13.38347362,15.80103143,True,business;newsandmedia;sports
+2012,9,9.555555555555555,14001.77778,13.39963866,15.83406573,True,business;newsandmedia;sports
+2013,8,10.75,14862.0,13.62020574,16.06103149,True,business;newsandmedia;sports
+2014,12,7.166666666666667,13986.416669999999,13.54644376,15.80018112,True,business;newsandmedia;sports
+2015,13,4.923076923076923,14208.92308,13.363992300000001,15.55793717,True,business;newsandmedia;sports
+2016,11,4.0,14142.0,12.59494374,15.03857699,True,business;newsandmedia;sports
+2017,12,4.5,15722.333330000001,13.61231775,16.10245884,True,business;newsandmedia;sports
+2018,10,3.2,20120.2,13.90457173,16.34844558,True,business;newsandmedia;sports
+2019,7,9.142857142857142,22267.42857,13.96535454,15.92637823,True,business;newsandmedia;sports

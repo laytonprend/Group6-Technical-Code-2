@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,1,0.0,4554.0,11.52448718,13.91797589,True,informationtech;messageboardsandforums
+2001,1,5.0,8395.0,11.862723800000001,14.31402892,True,informationtech;messageboardsandforums
+2002,4,1.25,6771.75,12.06668293,14.71761239,True,informationtech;messageboardsandforums
+2003,9,0.0,5166.888889,11.94520755,14.83665378,True,informationtech;messageboardsandforums
+2004,12,0.5,4626.083333,12.01866724,14.92849585,True,informationtech;messageboardsandforums
+2005,12,0.5,4983.0,12.05095536,14.96560633,True,informationtech;messageboardsandforums
+2006,13,2.3076923076923075,5505.615385,12.42020619,14.74864875,True,informationtech;messageboardsandforums
+2007,14,3.7142857142857144,5953.857143,12.57743138,14.77987678,True,informationtech;messageboardsandforums
+2008,14,3.5714285714285716,6342.0,13.06153339,15.389616199999999,True,informationtech;messageboardsandforums
+2009,20,2.0,4821.75,12.27007551,14.95967006,True,informationtech;messageboardsandforums
+2010,31,2.4193548387096775,5179.806452000001,12.77758784,15.44114513,True,informationtech;messageboardsandforums
+2011,43,2.441860465116279,5296.674419,12.56763075,15.43218841,True,informationtech;messageboardsandforums
+2012,55,2.9272727272727272,6258.636364,12.5615538,15.12049388,True,informationtech;messageboardsandforums
+2013,62,3.2419354838709675,6131.403225999999,12.25391976,14.81413571,True,informationtech;messageboardsandforums
+2014,54,2.4814814814814814,6251.240741,12.37890066,14.8638366,True,informationtech;messageboardsandforums
+2015,59,2.847457627118644,6222.169492,12.35738838,14.86558709,True,informationtech;messageboardsandforums
+2016,53,3.4716981132075473,6498.90566,12.55742688,14.7135633,True,informationtech;messageboardsandforums
+2017,43,3.302325581395349,6928.930233,12.58763946,14.85949512,True,informationtech;messageboardsandforums
+2018,49,1.7755102040816326,6540.244898,12.157518099999999,14.83027424,True,informationtech;messageboardsandforums
+2019,52,0.9615384615384616,7191.115384999999,12.09869751,16.02941308,True,informationtech;messageboardsandforums

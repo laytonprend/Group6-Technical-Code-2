@@ -1,0 +1,20 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2001,1,0.0,1784.0,11.31244258,0.0,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2002,2,0.0,1795.0,11.375181435,0.0,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2003,2,14.0,23297.0,13.31576318,15.292465655,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2004,2,14.0,23297.0,13.31576318,15.292465655,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2005,3,13.333333333333334,17088.333333333332,13.22261165,15.125041936666667,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2006,4,13.0,15309.5,13.1401587225,15.239338824999999,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2007,5,9.8,13477.0,13.657122677999999,15.369660088,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2008,5,9.0,13370.8,13.746783611999998,15.429576982,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2009,6,7.333333333333333,12014.666666666666,13.962180673333334,15.658704885,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2010,4,5.5,10467.5,14.0155508925,15.5604240025,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2011,4,3.0,9974.75,14.674068957500001,15.5447190275,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2012,6,2.0,7580.0,14.169627081666667,10.428920016666666,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2013,5,2.4,8812.6,14.599585688000001,12.673696146000001,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2014,5,2.4,8755.0,14.436798658,12.641093088,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2015,7,2.5714285714285716,8450.42857142857,13.772740438571427,11.178277535714285,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2016,4,0.0,4284.5,13.491913592500001,8.14041479,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2017,4,0.0,4766.25,13.755998975,8.242232395,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2018,4,6.25,19525.75,16.514105535,13.334554259999999,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 
+2019,9,4.444444444444445,14323.333333333334,14.69692199777778,11.590305523333333,False,business;entertainment;weapons - education;entertainment;weapons - entertainment;weapons - 

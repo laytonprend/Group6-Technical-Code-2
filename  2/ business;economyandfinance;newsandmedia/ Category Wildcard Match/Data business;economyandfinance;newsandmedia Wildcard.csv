@@ -1,0 +1,17 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2001,1,0.0,8927.0,13.00863636,0.0,False,business;economyandfinance;newsandmedia - 
+2005,3,0.0,7281.666666666667,12.841492313333333,15.281597516666666,False,business;economyandfinance;newsandmedia - 
+2006,4,0.5,7963.25,13.2971024675,15.5314055325,False,business;economyandfinance;newsandmedia - 
+2007,6,1.5,11917.166666666666,14.105365281666666,16.393967118333332,False,business;economyandfinance;newsandmedia - 
+2008,6,1.6666666666666667,10421.5,13.006257895,13.743814821666668,False,business;economyandfinance;newsandmedia - 
+2009,9,3.888888888888889,15988.0,14.264986944444445,16.724693700000003,False,business;economyandfinance;newsandmedia - 
+2010,12,4.25,16737.583333333332,14.223414333333332,16.599351700000003,False,business;economyandfinance;newsandmedia - 
+2011,12,3.9166666666666665,15926.833333333334,13.275891383333333,13.65065045,False,business;economyandfinance;newsandmedia - 
+2012,15,1.2,12583.933333333332,13.936348306666668,12.311636720000001,False,business;economyandfinance;newsandmedia - 
+2013,12,1.0,11851.583333333334,13.854574441666669,11.166194383333332,False,business;economyandfinance;newsandmedia - 
+2014,15,1.7333333333333334,12844.0,13.600374853333335,11.942276766666668,False,business;economyandfinance;newsandmedia - 
+2015,12,1.75,13930.083333333334,13.542086025000001,13.362301366666669,False,business;economyandfinance;newsandmedia - 
+2016,12,2.5,15951.333333333334,13.455697116666668,13.195166225,False,business;economyandfinance;newsandmedia - 
+2017,13,2.1538461538461537,14749.615384615385,14.000048676923079,11.845144507692307,False,business;economyandfinance;newsandmedia - 
+2018,10,4.7,20034.9,14.16375749,16.46879913,False,business;economyandfinance;newsandmedia - 
+2019,10,3.2,16407.6,13.248936709999999,11.392644809999998,False,business;economyandfinance;newsandmedia - 

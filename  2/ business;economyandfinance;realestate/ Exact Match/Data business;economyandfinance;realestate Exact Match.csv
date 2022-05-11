@@ -1,0 +1,17 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2003,1,0.0,5093.0,11.90462963,13.86744224,True,business;economyandfinance;realestate
+2004,2,0.0,4336.0,11.48886047,14.09163425,True,business;economyandfinance;realestate
+2005,2,0.0,4053.0,11.19276153,13.91797589,True,business;economyandfinance;realestate
+2006,2,0.0,4053.0,11.19276153,13.91797589,True,business;economyandfinance;realestate
+2007,2,0.0,4053.0,11.19276153,13.91797589,True,business;economyandfinance;realestate
+2008,3,0.0,4827.666667,11.51885584,14.08227391,True,business;economyandfinance;realestate
+2009,2,0.0,4083.5,11.11845463,13.841815300000002,True,business;economyandfinance;realestate
+2010,1,0.0,4114.0,11.04414773,13.76565471,True,business;economyandfinance;realestate
+2011,3,0.0,4990.666667,11.4037247,13.67937613,True,business;economyandfinance;realestate
+2012,4,0.0,3872.5,12.14334617,13.63623684,True,business;economyandfinance;realestate
+2013,4,0.0,2316.0,12.70317915,,True,business;economyandfinance;realestate
+2014,4,0.0,2297.0,14.16041441,,True,business;economyandfinance;realestate
+2015,4,0.0,2297.0,14.16041441,,True,business;economyandfinance;realestate
+2016,2,0.0,2297.0,14.16041441,,True,business;economyandfinance;realestate
+2017,4,0.0,2297.0,14.16041441,,True,business;economyandfinance;realestate
+2019,1,0.0,2268.0,14.11727273,,True,business;economyandfinance;realestate
