@@ -1,0 +1,6 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2014,1,0.0,6373.0,11.97706242,13.76565471,False,blogsandpersonal;foodandrecipes - 
+2015,2,0.0,6373.0,11.977062425,13.765654705,False,blogsandpersonal;foodandrecipes - 
+2016,6,3.6666666666666665,6573.0,12.193295366666668,14.43570642,False,blogsandpersonal;foodandrecipes - 
+2017,4,0.0,5908.5,11.10669915,13.1118151525,False,blogsandpersonal;foodandrecipes - 
+2019,3,4.666666666666667,10523.666666666666,11.982654516666665,14.066112956666666,False,blogsandpersonal;foodandrecipes - 

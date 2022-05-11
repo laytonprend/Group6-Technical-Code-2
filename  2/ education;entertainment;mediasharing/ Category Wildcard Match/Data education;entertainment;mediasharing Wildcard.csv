@@ -1,0 +1,16 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2005,2,0.0,3087.5,14.379424255,0.0,False,education;entertainment;mediasharing - 
+2006,4,0.0,4513.5,13.895968285,8.0361948075,False,education;entertainment;mediasharing - 
+2007,5,0.0,4069.0,13.758519992,6.428955845999999,False,education;entertainment;mediasharing - 
+2008,6,0.0,3198.1666666666665,9.263978856666666,5.357463204999999,False,education;entertainment;mediasharing - 
+2009,4,0.0,3886.5,10.30111222,8.0361948075,False,education;entertainment;mediasharing - 
+2010,8,0.0,3777.5,9.368925455,5.84927384625,False,education;entertainment;mediasharing - 
+2011,4,0.0,4808.75,9.8913562375,7.6804502875,False,education;entertainment;mediasharing - 
+2012,10,0.0,4017.4,8.000060252,6.377098748,False,education;entertainment;mediasharing - 
+2013,8,0.0,4080.875,10.194177425,6.03761813125,False,education;entertainment;mediasharing - 
+2014,9,0.0,4807.555555555556,10.419025276666666,7.175841533333334,False,education;entertainment;mediasharing - 
+2015,12,0.16666666666666666,3521.0833333333335,10.993239916666667,5.222471480833334,False,education;entertainment;mediasharing - 
+2016,11,0.0,4010.909090909091,10.766097972727273,5.781712453636364,False,education;entertainment;mediasharing - 
+2017,10,0.2,4663.5,10.48874803,7.581231503,False,education;entertainment;mediasharing - 
+2018,9,1.1111111111111112,6881.888888888889,10.04978777888889,6.6694627833333335,False,education;entertainment;mediasharing - 
+2019,10,0.2,3364.0,10.95505656,5.849191175,False,education;entertainment;mediasharing - 

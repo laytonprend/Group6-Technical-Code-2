@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,2,0.0,3218.5,12.40955882,,True,blogsandpersonal;education;entertainment
+2001,5,2.4,4519.6,13.92033603,14.7901945,True,blogsandpersonal;education;entertainment
+2002,5,2.4,5600.2,13.67039762,14.7901945,True,blogsandpersonal;education;entertainment
+2003,4,0.0,3918.0,13.76396656,14.7901945,True,blogsandpersonal;education;entertainment
+2004,6,0.0,3363.166667,11.9999258,14.7901945,True,blogsandpersonal;education;entertainment
+2005,2,10.0,9415.0,13.53542495,15.19588023,True,blogsandpersonal;education;entertainment
+2006,6,6.666666666666667,6279.166667,12.22990852,14.90183121,True,blogsandpersonal;education;entertainment
+2007,9,8.444444444444445,6760.888889,12.93242885,14.61740077,True,blogsandpersonal;education;entertainment
+2008,14,6.0,6105.857143,12.71074208,14.61740077,True,blogsandpersonal;education;entertainment
+2009,10,4.6,5153.5,12.50480028,14.92439146,True,blogsandpersonal;education;entertainment
+2010,26,3.269230769230769,5232.384615,12.32060647,15.27945464,True,blogsandpersonal;education;entertainment
+2011,49,3.183673469387755,5700.428571,12.31613815,14.92334267,True,blogsandpersonal;education;entertainment
+2012,58,3.810344827586207,6910.379309999999,12.4127901,14.74023602,True,blogsandpersonal;education;entertainment
+2013,65,3.4153846153846152,6362.938462,12.15104534,14.52473472,True,blogsandpersonal;education;entertainment
+2014,72,3.1805555555555554,5809.222222,12.27936248,14.73557176,True,blogsandpersonal;education;entertainment
+2015,92,2.9347826086956523,5760.565217,12.41610397,14.74438774,True,blogsandpersonal;education;entertainment
+2016,105,3.5904761904761906,6252.542857,12.42888936,14.84934504,True,blogsandpersonal;education;entertainment
+2017,90,3.488888888888889,6187.066667,12.30490536,14.61475123,True,blogsandpersonal;education;entertainment
+2018,59,2.7796610169491527,6329.423729,11.80030868,14.16919082,True,blogsandpersonal;education;entertainment
+2019,54,3.0185185185185186,7653.944444,11.56663023,13.96092534,True,blogsandpersonal;education;entertainment

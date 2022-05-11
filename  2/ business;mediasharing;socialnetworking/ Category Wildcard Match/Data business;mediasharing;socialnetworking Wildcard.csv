@@ -1,0 +1,4 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2013,1,6.0,9526.0,11.28079627,14.06817629,False,business;mediasharing;socialnetworking - 
+2014,4,3.0,5438.0,10.614848449999998,7.0340881425,False,business;mediasharing;socialnetworking - 
+2015,2,3.0,5438.0,10.614848449999998,7.034088145,False,business;mediasharing;socialnetworking - 

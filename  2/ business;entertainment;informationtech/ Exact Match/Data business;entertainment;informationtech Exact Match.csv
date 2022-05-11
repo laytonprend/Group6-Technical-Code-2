@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,4,0.0,2034.25,11.80823044,,True,business;entertainment;informationtech
+2001,6,0.0,1654.0,10.9739656,,True,business;entertainment;informationtech
+2002,7,0.0,1744.142857,11.37724083,,True,business;entertainment;informationtech
+2003,11,0.0,2335.181818,11.29966593,,True,business;entertainment;informationtech
+2004,16,0.0,2477.375,12.26952254,,True,business;entertainment;informationtech
+2005,22,0.0,3372.9090909999995,12.00275144,13.35532955,True,business;entertainment;informationtech
+2006,27,0.0,3648.62963,12.12268674,13.20577056,True,business;entertainment;informationtech
+2007,32,0.5625,4641.71875,12.17500784,14.73041792,True,business;entertainment;informationtech
+2008,42,1.5952380952380953,5562.047619,12.52656243,14.9017087,True,business;entertainment;informationtech
+2009,39,1.1794871794871795,5814.948718,12.69189295,15.26720594,True,business;entertainment;informationtech
+2010,57,1.7543859649122806,5455.912281,12.38222101,15.15693946,True,business;entertainment;informationtech
+2011,74,1.7297297297297298,6045.216216,12.83806084,15.31483904,True,business;entertainment;informationtech
+2012,82,2.0,5990.682927000001,12.73715442,15.08105523,True,business;entertainment;informationtech
+2013,89,1.7078651685393258,5521.674157,12.72092379,14.95775557,True,business;entertainment;informationtech
+2014,97,1.6288659793814433,6101.876289,12.7837033,14.93745558,True,business;entertainment;informationtech
+2015,97,1.3608247422680413,5537.969072,12.670822099999999,14.97607005,True,business;entertainment;informationtech
+2016,107,1.514018691588785,5517.925234,12.62518581,14.93571301,True,business;entertainment;informationtech
+2017,101,2.4257425742574257,6527.2673270000005,12.65762317,14.92854107,True,business;entertainment;informationtech
+2018,90,3.2444444444444445,9294.0,12.94583762,14.91605235,True,business;entertainment;informationtech
+2019,100,3.42,9842.79,12.99276969,14.96817093,True,business;entertainment;informationtech

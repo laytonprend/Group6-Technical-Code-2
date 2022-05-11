@@ -1,0 +1,14 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2004,2,0.0,1361.5,9.758737112999999,,True,adult;education;messageboardsandforums
+2008,1,9.0,5546.0,14.32466362,,True,adult;education;messageboardsandforums
+2009,2,9.0,5546.0,14.32466362,,True,adult;education;messageboardsandforums
+2010,2,9.0,5440.5,14.12562793,,True,adult;education;messageboardsandforums
+2011,2,9.0,5363.0,14.01368589,,True,adult;education;messageboardsandforums
+2012,2,9.0,5363.0,14.01368589,,True,adult;education;messageboardsandforums
+2013,2,9.0,5363.0,14.01368589,,True,adult;education;messageboardsandforums
+2014,2,9.0,5415.0,13.982658800000001,,True,adult;education;messageboardsandforums
+2015,1,9.0,5467.0,13.951631699999998,,True,adult;education;messageboardsandforums
+2016,2,9.0,5474.0,13.94384642,,True,adult;education;messageboardsandforums
+2017,2,9.0,5481.0,13.93606113,,True,adult;education;messageboardsandforums
+2018,2,9.0,5481.0,13.93606113,,True,adult;education;messageboardsandforums
+2019,2,9.0,5481.0,13.93606113,,True,adult;education;messageboardsandforums

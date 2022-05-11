@@ -1,0 +1,16 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2005,1,0.0,11662.0,12.28391725,14.88311306,True,business;education;mediasharing
+2006,5,0.0,9521.2,10.97865182,14.50361534,True,business;education;mediasharing
+2007,6,1.0,10843.33333,11.73655924,13.96849959,True,business;education;mediasharing
+2008,9,1.3333333333333333,10848.33333,12.166243,14.44787258,True,business;education;mediasharing
+2009,8,2.375,9393.875,13.35050818,15.31439222,True,business;education;mediasharing
+2010,15,2.6,8201.0,12.86511518,15.12482156,True,business;education;mediasharing
+2011,22,2.0454545454545454,8481.545455,12.79969919,15.09867107,True,business;education;mediasharing
+2012,25,2.16,8290.08,13.11232543,15.19314094,True,business;education;mediasharing
+2013,29,2.4827586206896552,8176.896551999999,12.86182538,14.97709657,True,business;education;mediasharing
+2014,24,2.75,8424.541667,12.60402977,15.00772958,True,business;education;mediasharing
+2015,26,2.769230769230769,8509.038462,12.6263099,14.98566389,True,business;education;mediasharing
+2016,21,1.4285714285714286,7697.4285709999995,12.38002255,15.0962484,True,business;education;mediasharing
+2017,18,1.8888888888888888,8087.333333,12.8573969,15.68386373,True,business;education;mediasharing
+2018,12,4.333333333333333,9089.25,13.04821023,15.71464653,True,business;education;mediasharing
+2019,15,3.7333333333333334,7578.333333,12.35734577,15.64213284,True,business;education;mediasharing

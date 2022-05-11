@@ -1,0 +1,16 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2005,2,9.0,5237.0,9.321617085,12.04049591,True,business;religion
+2006,3,3.0,5799.666667,9.321617085,12.04049591,True,business;religion
+2007,4,0.0,6071.5,,,True,business;religion
+2008,3,0.0,6064.0,,,True,business;religion
+2009,1,0.0,6064.0,,,True,business;religion
+2010,4,0.0,6064.0,,,True,business;religion
+2011,4,0.0,6069.0,,,True,business;religion
+2012,4,0.0,6064.5,,,True,business;religion
+2013,4,0.0,6055.0,,,True,business;religion
+2014,4,0.0,6211.5,12.85935922,,True,business;religion
+2015,4,0.0,8601.5,9.575328082999999,11.07235135,True,business;religion
+2016,2,0.0,9346.0,8.480651036,11.07235135,True,business;religion
+2017,4,0.0,9346.0,8.480651036,11.07235135,True,business;religion
+2018,4,5.0,11349.0,12.33018083,15.86053751,True,business;religion
+2019,3,4.666666666666667,13548.0,13.521068,16.42157393,True,business;religion
