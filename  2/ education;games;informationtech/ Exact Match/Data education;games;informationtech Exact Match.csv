@@ -1,0 +1,19 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2002,2,0.0,2151.0,10.81674923,,True,education;games;informationtech
+2003,2,0.0,2176.0,11.16700587,,True,education;games;informationtech
+2004,2,0.0,2176.0,11.16700587,,True,education;games;informationtech
+2005,2,0.0,2176.0,11.16700587,,True,education;games;informationtech
+2006,2,0.0,2176.0,11.16700587,,True,education;games;informationtech
+2007,1,0.0,2176.0,11.16700587,,True,education;games;informationtech
+2008,2,0.0,2176.0,11.16700587,,True,education;games;informationtech
+2009,2,0.0,2176.0,11.16700587,,True,education;games;informationtech
+2010,2,0.0,2247.5,11.34257828,,True,education;games;informationtech
+2011,3,4.666666666666667,4357.333333,12.73586307,15.6451,True,education;games;informationtech
+2012,5,2.8,3744.8,12.40369422,15.6451,True,education;games;informationtech
+2013,8,8.25,13501.5,12.82609383,15.47795094,True,education;games;informationtech
+2014,8,11.0,21905.125,12.81090743,15.42498255,True,education;games;informationtech
+2015,10,9.8,19581.4,12.69100938,15.08427734,True,education;games;informationtech
+2016,10,3.7,5507.2,12.20955149,14.0396223,True,education;games;informationtech
+2017,8,5.875,25319.0,12.5898437,14.88335091,True,education;games;informationtech
+2018,10,7.3,41931.0,11.72943417,14.14996213,True,education;games;informationtech
+2019,11,4.2727272727272725,23946.181819999998,10.944599400000001,13.04168431,True,education;games;informationtech

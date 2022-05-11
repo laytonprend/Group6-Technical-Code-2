@@ -1,0 +1,16 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,1,0.0,670.0,0.0,0.0,False,advertising;business;education - 
+2006,2,0.0,2300.0,10.2115,0.0,False,advertising;business;education - 
+2007,2,0.0,3775.0,10.95989606,6.753409485,False,advertising;business;education - 
+2008,2,0.0,5250.0,11.708292125,13.50681897,False,advertising;business;education - 
+2009,1,0.0,5249.0,11.70829212,13.50681897,False,advertising;business;education - 
+2010,2,0.0,5249.0,11.708292125,13.50681897,False,advertising;business;education - 
+2011,2,0.0,5249.0,11.708292125,13.50681897,False,advertising;business;education - 
+2012,2,0.0,5711.5,11.740229150000001,13.812302915,False,advertising;business;education - 
+2013,2,0.0,6835.5,11.86639863,14.142480665,False,advertising;business;education - 
+2014,4,4.0,10952.5,12.34874171,14.57123864,False,advertising;business;education - 
+2015,3,2.6666666666666665,9799.666666666666,12.219371503333333,14.436550583333334,False,advertising;business;education - 
+2016,2,0.0,7494.0,11.96063109,14.16717447,False,advertising;business;education - 
+2017,2,0.0,7494.0,11.96063109,14.16717447,False,advertising;business;education - 
+2018,4,0.0,10723.0,13.695845405,15.7221074075,False,advertising;business;education - 
+2019,4,0.0,10766.5,13.69140528,15.5271946925,False,advertising;business;education - 

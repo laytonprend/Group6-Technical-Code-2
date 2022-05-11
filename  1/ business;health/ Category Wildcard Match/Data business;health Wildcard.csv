@@ -1,0 +1,22 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+1999,2,0.0,3268.0,11.329236250000001,0.0,False,business;health - business;health;mediasharing - business;health;shopping - 
+2000,3,0.0,2291.3333333333335,10.126618983333334,0.0,False,business;health - business;health;mediasharing - business;health;shopping - 
+2001,6,0.5,4227.666666666667,11.591867370000001,4.7449237066666665,False,business;health - business;health;mediasharing - business;health;shopping - 
+2002,10,1.9,6082.3,12.65793174,7.484661475,False,business;health - business;health;mediasharing - business;health;shopping - 
+2003,16,2.3125,7971.1875,13.09425958375,9.53003980625,False,business;health - business;health;mediasharing - business;health;shopping - 
+2004,21,1.7619047619047619,6436.333333333333,13.281079162857141,6.5261624380952385,False,business;health - business;health;mediasharing - business;health;shopping - 
+2005,23,3.217391304347826,12097.869565217392,13.313985722608695,9.621263543478262,False,business;health - business;health;mediasharing - business;health;shopping - 
+2006,23,2.652173913043478,8623.347826086956,13.300180050869566,7.266560226086956,False,business;health - business;health;mediasharing - business;health;shopping - 
+2007,30,3.2,8914.7,13.301998587333333,8.606034444666667,False,business;health - business;health;mediasharing - business;health;shopping - 
+2008,32,3.625,8004.59375,13.3485175853125,8.060023497500001,False,business;health - business;health;mediasharing - business;health;shopping - 
+2009,33,4.848484848484849,9735.242424242424,13.506754905757575,10.633503833939393,False,business;health - business;health;mediasharing - business;health;shopping - 
+2010,47,4.680851063829787,10450.148936170213,13.477890342553192,10.711759742340426,False,business;health - business;health;mediasharing - business;health;shopping - 
+2011,49,6.020408163265306,12991.775510204081,13.635688242857144,13.272090332653061,False,business;health - business;health;mediasharing - business;health;shopping - 
+2012,59,4.779661016949152,11933.661016949152,13.553961347118644,12.125401984745764,False,business;health - business;health;mediasharing - business;health;shopping - 
+2013,68,4.764705882352941,13423.132352941177,13.83323047764706,12.357235430882353,False,business;health - business;health;mediasharing - business;health;shopping - 
+2014,75,5.293333333333333,13155.92,13.922566929066667,13.437655618666666,False,business;health - business;health;mediasharing - business;health;shopping - 
+2015,85,4.894117647058824,12732.517647058823,13.949103344588234,13.801811222352942,False,business;health - business;health;mediasharing - business;health;shopping - 
+2016,77,4.8441558441558445,13773.623376623376,13.951057220779223,15.085644385714284,False,business;health - business;health;mediasharing - business;health;shopping - 
+2017,61,4.934426229508197,13384.491803278688,13.581960481967213,14.811641339344263,False,business;health - business;health;mediasharing - business;health;shopping - 
+2018,42,4.333333333333333,16753.595238095237,13.526706616190475,15.46170294047619,False,business;health - business;health;mediasharing - business;health;shopping - 
+2019,40,3.975,14935.9,13.685863625,14.4887969825,False,business;health - business;health;mediasharing - business;health;shopping - 
