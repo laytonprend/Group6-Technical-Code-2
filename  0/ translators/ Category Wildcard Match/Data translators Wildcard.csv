@@ -1,0 +1,15 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2006,2,0.0,3167.0,12.3411882,0.0,False,business;education;translators - education;translators - translators - 
+2007,2,0.0,3167.0,12.3411882,0.0,False,business;education;translators - education;translators - translators - 
+2008,3,2.0,2991.0,12.845768903333335,0.0,False,business;education;translators - education;translators - translators - 
+2009,4,3.0,2896.5,13.098059255,0.0,False,business;education;translators - education;translators - translators - 
+2010,3,2.0,2982.3333333333335,12.845768903333335,0.0,False,business;education;translators - education;translators - translators - 
+2011,3,4.0,2859.0,13.350349606666667,0.0,False,business;education;translators - education;translators - translators - 
+2012,4,3.0,2982.0,13.098059255,0.0,False,business;education;translators - education;translators - translators - 
+2013,5,3.0,3635.6,13.495381012,3.111575886,False,business;education;translators - education;translators - translators - 
+2014,7,4.142857142857143,6054.428571428572,13.54453472,6.5061792871428565,False,business;education;translators - education;translators - translators - 
+2015,8,3.125,4943.625,13.41250854375,7.579989568749999,False,business;education;translators - education;translators - translators - 
+2016,10,4.9,21179.0,13.547395757999999,7.566714148999999,False,business;education;translators - education;translators - translators - 
+2017,8,2.875,7059.375,13.56261470375,7.750532229999999,False,business;education;translators - education;translators - translators - 
+2018,5,3.2,8744.6,13.600302851999999,9.4894723,False,business;education;translators - education;translators - translators - 
+2019,6,7.666666666666667,45054.666666666664,12.61245246,9.525040709999999,False,business;education;translators - education;translators - translators - 
