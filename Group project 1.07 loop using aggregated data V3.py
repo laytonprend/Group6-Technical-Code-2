@@ -138,6 +138,7 @@ def MainCode(result,SQLquery,CorrectionRequired,CatergoriesInSearch):
      graph=sns.pairplot(GroupedDF,kind='reg')
      graph.fig.subplots_adjust(top=.9)
      graph=graph.fig.suptitle('A Pairplot to show the trends and distributions of each measure for '+SearchDescription)#,lw=7)#linewidth=4)#,hue='species')
+     plt.savefig(savepath+"\.pairplot"+SearchDescription)
      plt.show()#marginal distributions, histograms, so number of samples?
     # return GroupedDF
   #  sns.lmplot(x='e',y='restbp',data=heart_df,fit_reg=True) 
