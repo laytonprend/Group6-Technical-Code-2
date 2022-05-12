@@ -1,0 +1,20 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2001,1,3.0,4233.0,11.18416667,12.96874232,True,entertainment;informationtech;shopping
+2002,2,3.0,4233.0,11.18416667,12.96874232,True,entertainment;informationtech;shopping
+2003,2,8.0,12733.0,11.34672252,14.21634208,True,entertainment;informationtech;shopping
+2004,3,6.0,12210.66667,12.036246400000001,14.78975685,True,entertainment;informationtech;shopping
+2005,5,8.2,12432.0,12.67058419,14.57117779,True,entertainment;informationtech;shopping
+2006,5,10.8,11327.6,13.50088934,14.53001522,True,entertainment;informationtech;shopping
+2007,8,5.875,11085.875,13.07440626,15.02205607,True,entertainment;informationtech;shopping
+2008,6,4.833333333333333,7311.5,12.48660941,14.26529262,True,entertainment;informationtech;shopping
+2009,4,5.25,6702.5,13.19004928,14.26529262,True,entertainment;informationtech;shopping
+2010,7,4.857142857142857,7676.714286,14.31292854,14.85067981,True,entertainment;informationtech;shopping
+2011,12,4.25,11419.08333,13.68943363,15.27222602,True,entertainment;informationtech;shopping
+2012,15,4.933333333333334,12475.46667,13.92716934,15.23994219,True,entertainment;informationtech;shopping
+2013,19,3.8947368421052633,12610.94737,13.32310299,15.510230599999998,True,entertainment;informationtech;shopping
+2014,22,4.363636363636363,12287.54545,13.20202801,15.75962574,True,entertainment;informationtech;shopping
+2015,23,4.086956521739131,11952.04348,13.25963037,15.89813856,True,entertainment;informationtech;shopping
+2016,23,3.8260869565217392,11950.26087,13.35135301,15.98948347,True,entertainment;informationtech;shopping
+2017,21,3.9523809523809526,11730.2381,13.31121616,15.98341929,True,entertainment;informationtech;shopping
+2018,22,3.227272727272727,14805.27273,13.37401876,15.34066461,True,entertainment;informationtech;shopping
+2019,19,4.2631578947368425,11730.15789,13.11103674,15.15824325,True,entertainment;informationtech;shopping
