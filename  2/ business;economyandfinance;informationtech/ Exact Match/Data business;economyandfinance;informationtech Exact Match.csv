@@ -1,0 +1,18 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2003,4,0.0,5303.0,12.76857329,15.47004243,True,business;economyandfinance;informationtech
+2004,4,0.0,5429.5,12.04715423,15.29246565,True,business;economyandfinance;informationtech
+2005,7,0.0,5404.857143,12.92428214,15.04133008,True,business;economyandfinance;informationtech
+2006,8,0.0,5392.0,12.96427986,15.51480061,True,business;economyandfinance;informationtech
+2007,5,2.0,3747.8,12.57512588,15.04130962,True,business;economyandfinance;informationtech
+2008,8,2.5,6008.25,12.79145945,14.83662334,True,business;economyandfinance;informationtech
+2009,5,4.0,5295.6,12.56512457,14.86785926,True,business;economyandfinance;informationtech
+2010,10,2.4,9195.8,13.04254159,15.16060639,True,business;economyandfinance;informationtech
+2011,9,2.6666666666666665,10538.88889,13.45982077,15.53228869,True,business;economyandfinance;informationtech
+2012,13,2.3076923076923075,10799.61538,13.60511581,15.75226582,True,business;economyandfinance;informationtech
+2013,15,1.6666666666666667,9686.533333,13.36024661,15.36651173,True,business;economyandfinance;informationtech
+2014,23,0.8260869565217391,6599.086957,12.50335631,15.057460899999999,True,business;economyandfinance;informationtech
+2015,21,1.0,7393.809523999999,12.47618496,15.06928471,True,business;economyandfinance;informationtech
+2016,23,0.8695652173913043,6909.521739,12.59744121,15.16535051,True,business;economyandfinance;informationtech
+2017,22,1.7727272727272727,6916.772727,12.08141666,15.043412,True,business;economyandfinance;informationtech
+2018,22,1.5454545454545454,7133.4090909999995,11.93151133,14.99994358,True,business;economyandfinance;informationtech
+2019,25,2.6,10372.56,11.48498638,14.88004288,True,business;economyandfinance;informationtech
