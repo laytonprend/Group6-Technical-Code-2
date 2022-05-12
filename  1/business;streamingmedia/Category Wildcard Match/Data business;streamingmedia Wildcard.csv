@@ -1,0 +1,20 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,2,0.0,8898.0,11.589044265,13.740024305,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2002,4,1.0,5387.0,13.4378473175,12.18043471,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2003,4,1.0,6227.0,13.7653566375,15.9925135525,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2004,9,1.5555555555555556,5398.111111111111,12.491290515555555,9.191462708888888,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2005,8,2.875,8148.375,14.4553594725,12.6356228725,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2006,8,3.625,8189.25,14.11580271875,14.08041457375,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2007,15,4.4,6956.733333333334,12.975655490666666,11.842874684000002,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2008,19,2.736842105263158,6689.0526315789475,13.260005967368421,11.203147259473683,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2009,17,4.117647058823529,11910.117647058823,14.608466162352942,12.358545550588236,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2010,29,3.0689655172413794,9229.034482758621,14.360625584827588,12.637059426206896,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2011,38,3.210526315789474,8558.078947368422,13.819856226842104,12.357916235,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2012,48,3.2916666666666665,9218.333333333334,13.73976847,12.023955467500002,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2013,59,3.864406779661017,8904.728813559323,13.53502337881356,12.654238147627119,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2014,61,3.0655737704918034,11526.22950819672,13.414961109016394,12.43332939704918,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2015,55,2.5454545454545454,11520.581818181818,13.228938507090907,11.19561268709091,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2016,53,2.9056603773584904,9807.603773584906,13.272759747924525,10.520618053207548,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2017,48,3.4166666666666665,13247.4375,13.424609861666667,10.843056383749998,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2018,46,4.304347826086956,14739.152173913044,13.320327912608699,12.887212678260868,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 
+2019,53,4.037735849056604,16858.490566037737,12.967698657490567,12.239899030377359,False,adult;business;streamingmedia - business;streamingmedia - business;streamingmedia;travel - 

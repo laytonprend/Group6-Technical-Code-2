@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,3,0.0,3081.6666666666665,10.17455159,4.5197,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2001,5,0.0,4445.2,11.306707046,2.976622612,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2002,7,0.0,5988.714285714285,11.683032152857141,6.226127967142857,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2003,7,0.0,5136.571428571428,12.115680865714284,8.165155545714287,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2004,6,0.0,5554.0,12.282650055,9.526014803333334,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2005,3,0.0,3437.6666666666665,11.18511433,0.0,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2006,7,0.0,3616.8571428571427,9.632822522857143,2.0378989457142858,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2007,5,0.4,5605.8,11.626632472,8.864694007999999,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2008,8,0.0,5276.5,11.877355057499999,8.986184035,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2009,15,0.26666666666666666,5000.6,11.171952388666666,9.553797448666668,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2010,23,1.2608695652173914,6674.826086956522,11.759265135652173,10.500781782608696,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2011,27,2.111111111111111,7155.666666666667,13.081020163703705,11.595386843333333,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2012,27,1.1851851851851851,7926.185185185185,13.288087045925927,11.252565556296295,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2013,37,1.3513513513513513,7835.189189189189,12.990802712702703,10.928522250810811,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2014,41,2.2195121951219514,8624.951219512195,13.083311829268293,10.808146117073171,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2015,42,2.380952380952381,9386.047619047618,12.991031058095237,10.648575072857144,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2016,50,2.18,9981.44,13.0234286026,11.6727648684,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2017,52,2.6153846153846154,9253.942307692309,13.180781533076924,12.862947769615385,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2018,46,2.8260869565217392,12468.152173913044,13.131654457173914,12.663512488478261,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
+2019,57,2.736842105263158,13244.59649122807,13.321074435614033,12.1786001577193,False,alcoholandtobacco;drugs;education - business;drugs;education - drugs;education - drugs;education;health - drugs;education;shopping - 
