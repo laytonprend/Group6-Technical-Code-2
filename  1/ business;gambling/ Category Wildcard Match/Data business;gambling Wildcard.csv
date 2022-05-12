@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,4,0.0,2596.75,6.8644827175,6.1703132925,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2001,1,0.0,1078.0,0.0,0.0,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2002,5,0.0,4328.0,7.075050254,8.446398693999999,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2003,9,0.8888888888888888,8233.444444444445,11.353695977777777,12.146877777777778,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2004,15,0.5333333333333333,7380.4,11.1749618,10.3031597,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2005,17,0.6470588235294118,6637.941176470588,12.707723470000001,9.824092670588234,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2006,20,1.2,6817.45,13.147595869499998,8.38812497,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2007,35,1.6285714285714286,7285.742857142857,11.440102661428572,7.000414748571429,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2008,29,1.5517241379310345,6640.517241379311,11.455102782413796,7.50459788275862,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2009,27,1.1481481481481481,8177.037037037037,11.520514394444445,9.884349995555555,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2010,42,1.5,5678.190476190476,11.953147695238096,7.640008973809524,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2011,68,1.4411764705882353,7013.779411764706,12.051215811470588,9.327538912500001,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2012,69,1.536231884057971,7422.797101449275,11.909654776811594,9.132133305797101,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2013,68,1.7352941176470589,7934.39705882353,11.864603175,10.302272114705882,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2014,70,1.5285714285714285,7973.228571428572,11.812906697285714,10.060983896285714,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2015,65,1.6615384615384616,8321.16923076923,11.41089798923077,9.32422468923077,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2016,75,1.6533333333333333,8563.64,11.882846975733333,9.940631921866668,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2017,59,1.5084745762711864,9116.542372881357,12.231736837288137,11.168029466101693,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2018,50,2.22,10432.92,12.119962103999999,9.255577354000001,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 
+2019,33,2.242424242424242,10014.09090909091,11.124512365151515,7.525376676969697,False,business;gambling - business;gambling;games - business;gambling;shopping - business;gambling;sports - 

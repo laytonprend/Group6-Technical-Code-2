@@ -1,0 +1,17 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2004,1,0.0,4557.0,10.85621539,13.34837121,True,messageboardsandforums;weapons
+2005,2,0.0,4517.0,10.6829408,13.34837121,True,messageboardsandforums;weapons
+2006,2,0.0,4547.0,10.78690555,13.34837121,True,messageboardsandforums;weapons
+2007,3,0.0,9097.0,12.18180571,14.2445505,True,messageboardsandforums;weapons
+2008,2,0.0,4618.0,10.68443667,13.18742774,True,messageboardsandforums;weapons
+2009,6,0.0,2451.833333,12.1856356,13.18742774,True,messageboardsandforums;weapons
+2010,10,0.0,2519.0,11.58616224,13.18742774,True,messageboardsandforums;weapons
+2011,9,0.0,2285.777778,11.71498018,13.18742774,True,messageboardsandforums;weapons
+2012,10,1.4,5187.3,12.55347992,14.19710148,True,messageboardsandforums;weapons
+2013,14,2.857142857142857,4665.0,12.6679403,14.48111534,True,messageboardsandforums;weapons
+2014,13,2.769230769230769,4749.846154,12.61435357,14.48111534,True,messageboardsandforums;weapons
+2015,14,1.8571428571428572,3464.714286,11.65268286,13.18742774,True,messageboardsandforums;weapons
+2016,11,2.0,3685.0909090000005,11.34822907,13.18742774,True,messageboardsandforums;weapons
+2017,9,2.4444444444444446,4212.222222,11.54241012,15.20269789,True,messageboardsandforums;weapons
+2018,10,2.9,7526.0,11.56150637,14.99670183,True,messageboardsandforums;weapons
+2019,16,3.6875,8420.8125,12.05762512,15.23207701,True,messageboardsandforums;weapons
