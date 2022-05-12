@@ -1,0 +1,23 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+1997,1,3.0,13753.0,10.47131154,14.7901945,True,entertainment;informationtech;newsandmedia
+1999,1,0.0,1936.0,14.43405668,,True,entertainment;informationtech;newsandmedia
+2000,1,0.0,2374.0,12.92294118,,True,entertainment;informationtech;newsandmedia
+2001,2,0.0,5037.0,12.02704082,14.88311306,True,entertainment;informationtech;newsandmedia
+2002,3,2.6666666666666665,4693.333333,11.93115818,13.92602223,True,entertainment;informationtech;newsandmedia
+2003,2,0.0,4660.0,10.55859634,12.65981756,True,entertainment;informationtech;newsandmedia
+2004,5,0.0,3571.2,9.730049232,12.27190849,True,entertainment;informationtech;newsandmedia
+2005,6,0.0,3340.166667,9.38390363,12.02204184,True,entertainment;informationtech;newsandmedia
+2006,11,0.9090909090909091,6986.272727,11.34435816,13.95715289,True,entertainment;informationtech;newsandmedia
+2007,11,1.3636363636363635,8187.0,11.39580465,14.09780094,True,entertainment;informationtech;newsandmedia
+2008,8,1.25,8067.25,11.57236603,13.95670587,True,entertainment;informationtech;newsandmedia
+2009,10,1.0,7562.7,12.08179976,14.53432356,True,entertainment;informationtech;newsandmedia
+2010,12,1.25,8496.833333,12.43235861,15.18247362,True,entertainment;informationtech;newsandmedia
+2011,21,2.0,7422.190476000001,12.57211295,15.33802766,True,entertainment;informationtech;newsandmedia
+2012,26,1.2692307692307692,5599.884615,12.23060971,14.3601716,True,entertainment;informationtech;newsandmedia
+2013,26,1.0,5250.653846,12.1261103,13.88394028,True,entertainment;informationtech;newsandmedia
+2014,26,0.6923076923076923,5288.115385,12.0470207,13.84903952,True,entertainment;informationtech;newsandmedia
+2015,27,0.9629629629629629,4870.370370000001,11.916749300000001,13.74661409,True,entertainment;informationtech;newsandmedia
+2016,31,1.3548387096774193,5320.419355,11.9414279,14.14347536,True,entertainment;informationtech;newsandmedia
+2017,34,2.7058823529411766,8146.0,12.31176381,14.4899794,True,entertainment;informationtech;newsandmedia
+2018,23,3.3043478260869565,11298.30435,12.27719791,14.1447883,True,entertainment;informationtech;newsandmedia
+2019,25,4.4,12249.24,12.42259861,14.52933405,True,entertainment;informationtech;newsandmedia
