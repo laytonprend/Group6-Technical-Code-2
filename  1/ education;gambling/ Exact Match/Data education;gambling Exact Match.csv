@@ -1,0 +1,12 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2007,1,0.0,3139.0,10.37789526,,True,education;gambling
+2008,2,0.0,3139.0,10.37789526,,True,education;gambling
+2009,1,0.0,3563.0,10.93691483,,True,education;gambling
+2010,2,0.0,3554.5,10.93691483,,True,education;gambling
+2011,2,0.0,3551.0,10.93691483,,True,education;gambling
+2012,2,0.0,3551.0,10.93691483,,True,education;gambling
+2013,2,0.0,3551.0,10.93691483,,True,education;gambling
+2014,1,0.0,3551.0,10.93691483,,True,education;gambling
+2016,2,5.0,4779.0,13.36807855,15.77480295,True,education;gambling
+2017,2,10.0,6566.0,14.35292479,15.77480295,True,education;gambling
+2019,1,10.0,6567.0,14.35292479,15.77480295,True,education;gambling

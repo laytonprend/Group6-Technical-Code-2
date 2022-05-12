@@ -1,0 +1,15 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2005,1,11.0,10936.0,12.89601024,13.40145869,True,messageboardsandforums;sports
+2006,2,9.0,8660.5,13.34958674,14.54497092,True,messageboardsandforums;sports
+2007,2,11.0,10936.0,12.89601024,13.40145869,True,messageboardsandforums;sports
+2008,3,9.0,9689.666667,14.40111846,16.28082958,True,messageboardsandforums;sports
+2009,2,8.5,8324.5,14.40111846,16.28082958,True,messageboardsandforums;sports
+2011,4,3.25,10144.0,13.54767403,15.65487412,True,messageboardsandforums;sports
+2012,4,5.0,8743.75,13.65322971,16.84619036,True,messageboardsandforums;sports
+2013,4,6.0,10225.75,13.73111771,16.37662411,True,messageboardsandforums;sports
+2014,4,6.75,10865.5,13.19433395,15.573743599999998,True,messageboardsandforums;sports
+2015,3,5.0,8984.0,12.76944273,15.16235255,True,messageboardsandforums;sports
+2016,3,5.0,8984.0,12.76944273,15.16235255,True,messageboardsandforums;sports
+2017,2,15.0,16668.5,11.94125403,14.48293339,True,messageboardsandforums;sports
+2018,2,15.0,16736.0,11.88988675,14.53073964,True,messageboardsandforums;sports
+2019,3,16.333333333333332,48811.0,14.80548747,15.35841457,True,messageboardsandforums;sports

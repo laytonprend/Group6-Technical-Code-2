@@ -1,0 +1,5 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2016,1,2.0,4925.0,12.61992617,14.74345646,False,adult;virtualreality - 
+2017,2,2.0,4923.0,12.632445435,14.74345646,False,adult;virtualreality - 
+2018,2,2.0,5861.0,12.50415949,14.553005125,False,adult;virtualreality - 
+2019,1,0.0,6146.0,10.65478836,12.4579756,False,adult;virtualreality - 
