@@ -1,0 +1,12 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2006,2,4.0,16710.5,13.44670202,15.199670195,False,jobrelated;socialnetworking - 
+2007,2,4.0,17232.0,13.43800136,14.929297965,False,jobrelated;socialnetworking - 
+2008,2,4.0,23032.5,14.120323305,14.975213825,False,jobrelated;socialnetworking - 
+2009,1,4.0,28210.0,14.84147737,14.83674596,False,jobrelated;socialnetworking - 
+2010,1,0.0,13508.0,16.50700131,18.6344097,False,jobrelated;socialnetworking - 
+2011,2,0.0,14848.5,16.565852095,18.493449415,False,jobrelated;socialnetworking - 
+2012,2,0.0,14849.0,16.565852095,18.493449415,False,jobrelated;socialnetworking - 
+2013,1,0.0,17358.0,14.6908137,17.7311,False,jobrelated;socialnetworking - 
+2014,2,0.0,20257.5,14.76994154,16.23881583,False,jobrelated;socialnetworking - 
+2015,1,0.0,20732.0,14.54755701,16.11434528,False,jobrelated;socialnetworking - 
+2016,1,0.0,20727.0,14.54721957,16.11434528,False,jobrelated;socialnetworking - 
