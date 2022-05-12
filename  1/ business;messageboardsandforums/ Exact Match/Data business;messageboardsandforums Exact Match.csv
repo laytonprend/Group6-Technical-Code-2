@@ -1,0 +1,18 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2003,2,0.0,1593.5,11.59276883,,True,business;messageboardsandforums
+2004,2,2.0,4657.0,13.3342994,,True,business;messageboardsandforums
+2005,4,13.5,6679.5,12.01347948,13.66275709,True,business;messageboardsandforums
+2006,2,15.0,5584.5,12.47622994,13.61112027,True,business;messageboardsandforums
+2007,1,0.0,9667.0,11.57423877,12.4579756,True,business;messageboardsandforums
+2008,3,0.0,6146.0,12.68249697,14.884369199999998,True,business;messageboardsandforums
+2009,13,1.0,6010.923077,12.36310947,13.92910571,True,business;messageboardsandforums
+2010,17,1.7647058823529411,6224.941175999999,12.37968142,14.12544504,True,business;messageboardsandforums
+2011,14,1.0714285714285714,5520.5,12.0333657,13.84781689,True,business;messageboardsandforums
+2012,23,1.3043478260869565,4377.9565219999995,11.99337375,14.27406429,True,business;messageboardsandforums
+2013,27,1.4814814814814814,3613.703704,12.26244322,15.003972400000002,True,business;messageboardsandforums
+2014,24,1.6666666666666667,3664.041667,12.70280973,14.74048461,True,business;messageboardsandforums
+2015,26,1.5,3429.4230770000004,13.00280163,14.80148839,True,business;messageboardsandforums
+2016,30,1.1,4270.833333,13.23475336,14.93589423,True,business;messageboardsandforums
+2017,16,0.6875,4598.4375,13.13316688,14.16727273,True,business;messageboardsandforums
+2018,16,5.0625,16455.4375,13.68761646,16.20831491,True,business;messageboardsandforums
+2019,24,6.916666666666667,21887.875,13.46656172,16.4761196,True,business;messageboardsandforums

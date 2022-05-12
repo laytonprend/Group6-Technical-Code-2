@@ -1,0 +1,10 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2006,2,2.0,1976.0,12.56890625,,True,games;socialnetworking
+2007,2,2.0,1976.0,12.56890625,,True,games;socialnetworking
+2008,1,2.0,2253.0,12.51969697,,True,games;socialnetworking
+2012,1,42.0,15425.0,13.11979946,15.06678064,True,games;socialnetworking
+2014,1,38.0,19865.0,13.29230227,15.42588865,True,games;socialnetworking
+2015,2,38.0,21235.0,13.55063263,15.6451,True,games;socialnetworking
+2016,2,33.0,20232.0,14.04213206,15.6451,True,games;socialnetworking
+2017,2,36.5,24171.0,14.952060699999999,16.3514645,True,games;socialnetworking
+2018,1,57.0,47058.0,12.48385051,14.45898005,True,games;socialnetworking
