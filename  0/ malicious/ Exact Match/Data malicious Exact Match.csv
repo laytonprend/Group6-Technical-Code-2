@@ -1,0 +1,7 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2007,1,4.0,2039.0,11.69956461,,True,malicious
+2010,1,6.0,12156.0,13.81658646,15.90318901,True,malicious
+2011,1,6.0,12112.0,13.71590387,15.81774264,True,malicious
+2012,3,4.0,8579.666667,15.29294457,15.83914007,True,malicious
+2013,1,6.0,11344.0,13.74518404,15.73171695,True,malicious
+2016,1,0.0,4440.0,9.429587605,12.63128222,True,malicious
