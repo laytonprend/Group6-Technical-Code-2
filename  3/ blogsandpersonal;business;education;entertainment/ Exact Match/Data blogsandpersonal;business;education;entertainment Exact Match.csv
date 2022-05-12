@@ -1,0 +1,9 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2004,1,0.0,2969.0,9.534477438,11.97924847,True,blogsandpersonal;business;education;entertainment
+2005,2,0.0,2979.5,9.586005822,12.00987219,True,blogsandpersonal;business;education;entertainment
+2006,2,0.0,2942.5,9.908725767,12.04049591,True,blogsandpersonal;business;education;entertainment
+2007,2,0.0,2988.0,10.6565879,,True,blogsandpersonal;business;education;entertainment
+2008,2,0.0,2519.0,10.37544829,,True,blogsandpersonal;business;education;entertainment
+2009,1,0.0,2050.0,10.09430868,,True,blogsandpersonal;business;education;entertainment
+2015,1,3.0,9316.0,15.990681200000001,16.6479251,True,blogsandpersonal;business;education;entertainment
+2016,2,3.0,9316.0,15.990681200000001,16.6479251,True,blogsandpersonal;business;education;entertainment
