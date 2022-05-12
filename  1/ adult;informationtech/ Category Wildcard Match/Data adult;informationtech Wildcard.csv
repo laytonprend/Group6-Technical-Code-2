@@ -1,0 +1,14 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2007,4,12.75,7957.25,13.2838738725,11.4515032275,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2008,5,10.8,7040.2,13.729062972,9.0862615,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2009,4,6.75,6751.0,13.621343572499999,7.683248085,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2010,4,6.75,7540.5,13.84710517,11.6808003975,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2011,7,9.428571428571429,7546.142857142857,13.335363782857144,10.799097767142857,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2012,9,2.0,7873.777777777777,13.833994855555556,9.942797534444445,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2013,9,2.3333333333333335,8000.444444444444,13.316426765555555,9.816682407777778,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2014,7,3.0,8032.714285714285,13.359900567142857,8.130013871428572,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2015,11,1.9090909090909092,7463.0,12.807889796363638,6.669769184545455,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2016,7,1.2857142857142858,8887.857142857143,13.09398704,6.094133344285715,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2017,5,2.4,5105.6,12.465475188,2.995060562,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2018,4,1.5,4071.5,12.2303188,3.8006744725,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 
+2019,1,0.0,27578.0,14.5651629,17.50586285,False,adult;informationtech - adult;informationtech;newsandmedia - adult;informationtech;streamingmedia - 

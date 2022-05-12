@@ -1,0 +1,18 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2003,3,1.3333333333333333,2381.666667,11.04811966,,True,business;economyandfinance;shopping
+2004,2,0.0,1773.5,10.98395418,,True,business;economyandfinance;shopping
+2005,2,0.0,1737.0,11.17320248,,True,business;economyandfinance;shopping
+2006,3,0.0,4865.333333,12.02643843,15.24766489,True,business;economyandfinance;shopping
+2007,3,0.0,8445.0,12.48958581,16.56721497,True,business;economyandfinance;shopping
+2008,5,1.2,10281.4,12.9433856,16.56721497,True,business;economyandfinance;shopping
+2009,4,0.0,11462.5,12.31607566,16.56721497,True,business;economyandfinance;shopping
+2010,10,0.5,12613.1,11.78338009,14.31048652,True,business;economyandfinance;shopping
+2011,16,2.125,11176.5,12.17241828,14.92796861,True,business;economyandfinance;shopping
+2012,22,1.5,9786.772727,12.10036628,14.55959606,True,business;economyandfinance;shopping
+2013,23,1.7391304347826086,9437.956522,12.36290789,14.67820843,True,business;economyandfinance;shopping
+2014,24,2.4166666666666665,9340.0,12.52881801,14.68083062,True,business;economyandfinance;shopping
+2015,30,2.466666666666667,13436.766669999999,13.10369808,15.2786995,True,business;economyandfinance;shopping
+2016,21,2.0952380952380953,11728.66667,13.41399251,15.26441744,True,business;economyandfinance;shopping
+2017,22,1.3181818181818181,11392.0,12.87529271,14.85507585,True,business;economyandfinance;shopping
+2018,19,2.3684210526315788,15496.947369999998,13.68535995,15.37310381,True,business;economyandfinance;shopping
+2019,17,1.6470588235294117,15739.11765,14.03440437,15.84237096,True,business;economyandfinance;shopping
