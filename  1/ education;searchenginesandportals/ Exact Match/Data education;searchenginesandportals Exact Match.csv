@@ -1,0 +1,18 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2001,1,0.0,5112.0,13.91582702,15.42588865,True,education;searchenginesandportals
+2003,2,0.0,10948.5,13.53874957,15.64502455,True,education;searchenginesandportals
+2004,2,0.0,8324.0,14.975891199999998,16.56721497,True,education;searchenginesandportals
+2005,2,0.0,3113.5,14.39098592,15.29246565,True,education;searchenginesandportals
+2006,3,2.3333333333333335,8607.666667,12.61089,15.42580909,True,education;searchenginesandportals
+2007,3,7.666666666666667,13370.33333,11.77279215,14.81753737,True,education;searchenginesandportals
+2008,3,8.0,13005.33333,13.03437917,15.68079613,True,education;searchenginesandportals
+2009,3,6.666666666666667,10520.66667,12.26231576,14.77391112,True,education;searchenginesandportals
+2010,8,3.125,8756.375,13.01984733,15.5385182,True,education;searchenginesandportals
+2011,10,2.6,8751.7,13.30488808,15.53486556,True,education;searchenginesandportals
+2012,8,3.25,9588.5,12.82101338,15.22053827,True,education;searchenginesandportals
+2013,9,2.888888888888889,8713.555556,12.48870713,14.84940658,True,education;searchenginesandportals
+2014,9,2.888888888888889,8734.111111,12.53710243,15.02471216,True,education;searchenginesandportals
+2015,9,2.888888888888889,8740.555556,12.93375303,15.458064199999999,True,education;searchenginesandportals
+2016,7,2.857142857142857,8688.0,13.14883839,15.71715043,True,education;searchenginesandportals
+2017,4,3.5,7869.0,12.94148116,15.15296622,True,education;searchenginesandportals
+2018,2,7.0,11246.5,12.73215827,14.99715437,True,education;searchenginesandportals
