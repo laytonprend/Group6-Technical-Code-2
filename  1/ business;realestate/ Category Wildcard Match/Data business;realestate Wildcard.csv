@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,12,1.25,6225.916666666667,10.750783833333335,7.324334539166667,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2001,23,0.6956521739130435,7149.478260869565,12.568044260869563,11.212096117391305,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2002,29,0.41379310344827586,6061.3448275862065,12.366106739655173,7.779374031034482,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2003,36,0.6111111111111112,5136.916666666667,12.547570709999997,6.796182246388889,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2004,56,1.3214285714285714,6700.785714285715,12.524069030357143,8.52700982,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2005,83,1.4578313253012047,7729.710843373494,12.754919743855423,10.71118278060241,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2006,113,1.5132743362831858,8278.557522123894,13.020734941415927,11.62000748477876,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2007,133,1.218045112781955,8424.075187969926,12.818460301503759,12.261693045939849,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2008,138,1.7318840579710144,8696.152173913044,12.80757996405797,12.572845349782607,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2009,128,1.546875,7875.4140625,12.71498381703125,11.675073981015625,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2010,156,1.6282051282051282,8159.6858974358975,12.806617699166667,11.484591927115384,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2011,195,1.7179487179487178,8477.323076923078,12.795561195743588,11.242684144153849,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2012,243,1.4732510288065843,8349.283950617284,12.801244870781893,11.311247227736626,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2013,232,1.5560344827586208,8758.862068965518,13.196693235948276,11.614593258017242,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2014,250,1.6,9380.048,13.327176447960003,11.5856529368,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2015,253,1.7035573122529644,9833.99604743083,13.30423766699605,11.850308805652174,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2016,256,1.8671875,10190.87109375,13.248187333476563,11.88267850832031,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2017,215,2.3302325581395347,11374.223255813953,13.424861778139533,12.384400338604651,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2018,144,1.9791666666666667,13674.291666666666,13.310364245694444,13.00517156875,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 
+2019,141,2.773049645390071,14688.886524822696,12.899282961560285,13.326654398297872,False,business;realestate - business;realestate;shopping - business;realestate;travel - business;realestate;vehicles - 

@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,1,0.0,17499.0,12.77905099,15.73171695,True,business;shopping;weapons
+2001,1,0.0,17572.0,12.71546694,15.06678064,True,business;shopping;weapons
+2002,2,0.0,17572.0,12.71546694,15.06678064,True,business;shopping;weapons
+2003,2,0.0,17572.0,12.71546694,15.06678064,True,business;shopping;weapons
+2004,3,0.0,12170.33333,12.22390247,15.06678064,True,business;shopping;weapons
+2005,2,0.0,17571.5,12.71546694,15.06678064,True,business;shopping;weapons
+2006,2,0.0,17571.0,12.71546694,15.06678064,True,business;shopping;weapons
+2007,4,7.0,13227.0,12.79371466,14.31294032,True,business;shopping;weapons
+2008,4,7.0,16267.5,12.86757362,14.75239929,True,business;shopping;weapons
+2009,2,7.0,16267.5,12.86757362,14.75239929,True,business;shopping;weapons
+2010,4,3.5,14683.0,12.87791636,15.15016572,True,business;shopping;weapons
+2011,7,4.0,10099.14286,12.85368163,14.66695147,True,business;shopping;weapons
+2012,10,3.8,10387.1,13.34341688,15.14138436,True,business;shopping;weapons
+2013,12,6.166666666666667,11834.58333,13.81569567,15.52333605,True,business;shopping;weapons
+2014,13,6.0,11357.23077,13.30678464,15.50264933,True,business;shopping;weapons
+2015,14,4.642857142857143,10258.14286,13.23366073,15.49859764,True,business;shopping;weapons
+2016,15,4.066666666666666,9365.0,13.26349124,15.49688195,True,business;shopping;weapons
+2017,14,3.357142857142857,9383.0,13.30545838,15.6415372,True,business;shopping;weapons
+2018,9,1.1111111111111112,8677.888889,12.87688398,15.65752909,True,business;shopping;weapons
+2019,15,2.4,10799.73333,13.1865138,15.26998884,True,business;shopping;weapons

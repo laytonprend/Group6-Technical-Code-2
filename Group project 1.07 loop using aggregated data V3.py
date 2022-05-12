@@ -44,6 +44,7 @@ def MakeFolder(path):
          #print('code continued')
 
 def MainCode(result,SQLquery,CorrectionRequired,CatergoriesInSearch):
+     plt.style.use('dark_background') 
      level=str(SQLquery.count(';'))
    #  global path
     # path= os.path.abspath(os.path.dirname(__file__))#temp
@@ -133,12 +134,13 @@ def MainCode(result,SQLquery,CorrectionRequired,CatergoriesInSearch):
      makelinechart(temp['year'],temp['smog_Mean'],'Year',
                 'Mean smog')#years of education needed to read
     # GroupedDF.to_csv(mycodelocationpath+'\RanData.csv', index=False)
-    
-     plt.figure(figsize=(10,8),dpi=80)
+     #sns.set(style='darkgrid', context='notebook', rc={'figure.figsize':(14,10)})
+     plt.figure(dpi=80)#figsize=(12,15),
      graph=sns.pairplot(GroupedDF,kind='reg')
      graph.fig.subplots_adjust(top=.9)
+   #  graph.set_ylabel('pairplot', rotation=270, color='w', labelpad=15)
      graph=graph.fig.suptitle('A Pairplot to show the trends and distributions of each measure for '+SearchDescription)#,lw=7)#linewidth=4)#,hue='species')
-     plt.savefig(savepath+"\.pairplot"+SearchDescription)
+     plt.savefig(savepath+"\.pairplot"+SearchDescription+'.png',bbox_inches='tight')
      plt.show()#marginal distributions, histograms, so number of samples?
     # return GroupedDF
   #  sns.lmplot(x='e',y='restbp',data=heart_df,fit_reg=True) 
@@ -179,7 +181,7 @@ def makelinechart(x,y,xlabel,ylabel):
   # print(titlelabel+' Graph created')
    
    
-plt.style.use('dark_background') 
+
 File=pd.read_csv('Categories AggV3.csv')
 '''print(File.columns)
 droplist=File.columns
