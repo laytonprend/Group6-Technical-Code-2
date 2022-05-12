@@ -1,0 +1,6 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2013,2,0.0,9111.0,14.780059099999999,,True,adult;entertainment;sports
+2014,1,0.0,9111.0,14.780059099999999,,True,adult;entertainment;sports
+2015,1,0.0,9111.0,14.780059099999999,,True,adult;entertainment;sports
+2016,2,0.0,9111.0,14.780059099999999,,True,adult;entertainment;sports
+2017,1,11.0,16414.0,16.45324573,16.52667758,True,adult;entertainment;sports
