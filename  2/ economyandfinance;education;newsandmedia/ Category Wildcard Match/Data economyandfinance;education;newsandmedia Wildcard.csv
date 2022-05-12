@@ -1,0 +1,10 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2011,2,5.0,18992.0,14.23431544,16.19785254,False,economyandfinance;education;newsandmedia - 
+2012,2,5.0,19395.5,14.13993061,16.19785254,False,economyandfinance;education;newsandmedia - 
+2013,2,5.0,19424.0,14.645612445,16.90838581,False,economyandfinance;education;newsandmedia - 
+2014,2,5.0,19361.0,15.245679105,17.61891908,False,economyandfinance;education;newsandmedia - 
+2015,3,3.6666666666666665,24470.333333333332,15.057860666666668,16.901232359999998,False,economyandfinance;education;newsandmedia - 
+2016,2,4.0,26764.0,15.01283086,17.076893975,False,economyandfinance;education;newsandmedia - 
+2017,2,4.0,27130.5,14.863840855,17.562390965,False,economyandfinance;education;newsandmedia - 
+2018,4,2.0,6840.75,13.1825577325,7.90887132,False,economyandfinance;education;newsandmedia - 
+2019,4,1.0,4963.75,13.0194949275,3.95443566,False,economyandfinance;education;newsandmedia - 

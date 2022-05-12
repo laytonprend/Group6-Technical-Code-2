@@ -1,0 +1,20 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,1,136.0,49525.0,12.09325327,15.73171695,True,business;informationtech;proxyandfilteravoidance
+2001,2,9.0,22373.5,13.60776046,15.7763989,True,business;informationtech;proxyandfilteravoidance
+2003,1,18.0,34594.0,13.68229526,15.73171695,True,business;informationtech;proxyandfilteravoidance
+2004,2,18.0,36663.5,13.029731,15.7741445,True,business;informationtech;proxyandfilteravoidance
+2005,2,18.0,36599.0,12.74240946,16.07129786,True,business;informationtech;proxyandfilteravoidance
+2006,3,6.0,14505.0,13.17743172,15.92344896,True,business;informationtech;proxyandfilteravoidance
+2007,4,9.0,19223.75,13.07192522,15.89702238,True,business;informationtech;proxyandfilteravoidance
+2008,2,17.5,32767.0,13.18545738,16.09051451,True,business;informationtech;proxyandfilteravoidance
+2009,3,11.333333333333334,22667.0,14.43184433,16.36328637,True,business;informationtech;proxyandfilteravoidance
+2010,7,5.571428571428571,15921.28571,13.501804000000002,15.02177764,True,business;informationtech;proxyandfilteravoidance
+2011,9,3.3333333333333335,10776.66667,13.75584385,15.60528535,True,business;informationtech;proxyandfilteravoidance
+2012,12,2.3333333333333335,8557.5,14.2892959,15.76443456,True,business;informationtech;proxyandfilteravoidance
+2013,6,4.666666666666667,13157.66667,13.25233826,16.25425998,True,business;informationtech;proxyandfilteravoidance
+2014,11,2.272727272727273,9250.363636,13.17761796,16.04504533,True,business;informationtech;proxyandfilteravoidance
+2015,12,2.0,9993.5,12.80516712,15.33086576,True,business;informationtech;proxyandfilteravoidance
+2016,20,1.7,10494.55,12.97632881,14.43039447,True,business;informationtech;proxyandfilteravoidance
+2017,21,0.38095238095238093,8296.190476,13.30378606,14.17166603,True,business;informationtech;proxyandfilteravoidance
+2018,17,3.4705882352941178,23017.76471,12.71061739,14.56009962,True,business;informationtech;proxyandfilteravoidance
+2019,16,3.125,11569.5,12.5445052,14.67757962,True,business;informationtech;proxyandfilteravoidance
