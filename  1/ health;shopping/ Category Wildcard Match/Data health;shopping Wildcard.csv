@@ -1,0 +1,23 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+1998,1,7.0,3577.0,14.35247214,0.0,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+1999,1,7.0,3518.0,14.35247214,0.0,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2000,2,4.5,6790.0,12.792741685,6.8571969500000005,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2001,5,4.2,7805.6,12.438587744,11.166752882,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2002,7,3.2857142857142856,7385.428571428572,11.733962751428573,12.616601098571428,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2003,10,1.9,6703.4,12.432487114999999,10.403588747,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2004,13,2.3076923076923075,6669.538461538462,12.07674474153846,8.639611259230769,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2005,17,2.6470588235294117,6598.882352941177,11.72650855764706,8.863401853529412,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2006,23,3.0869565217391304,6449.826086956522,11.951930414782609,8.773098503913042,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2007,22,3.272727272727273,6309.181818181818,12.29392712090909,9.218638443636364,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2008,24,3.375,7668.416666666667,11.804482568749998,10.119593722083332,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2009,23,4.086956521739131,8055.260869565217,12.946280595652176,10.56052618869565,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2010,29,3.206896551724138,7193.137931034483,13.15021333724138,8.427171243793103,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2011,39,4.435897435897436,9377.74358974359,13.306311936410257,10.77018450974359,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2012,53,3.7547169811320753,8255.056603773584,12.479004227924529,10.195449420943397,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2013,61,3.360655737704918,9560.508196721312,12.480137362950819,11.312617403442623,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2014,67,3.9402985074626864,9787.507462686568,12.581094069104479,12.294767925522386,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2015,68,3.5588235294117645,9755.558823529413,12.69124715632353,11.93486823397059,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2016,69,3.5217391304347827,9867.289855072464,12.526524702898552,13.067771807826087,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2017,51,3.6470588235294117,10871.392156862745,12.464554346666668,12.829169259607843,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2018,30,4.033333333333333,11609.9,12.301107278,13.328286181333336,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
+2019,32,5.1875,13299.5,12.668997962812501,11.998178710625,False,business;health;shopping - education;health;shopping - foodandrecipes;health;shopping - health;shopping - 
