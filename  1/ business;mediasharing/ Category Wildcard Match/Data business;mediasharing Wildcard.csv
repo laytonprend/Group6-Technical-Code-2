@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,1,7.0,2461.0,11.46575342,0.0,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2001,4,3.5,4508.0,12.25363751,7.7570193975,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2002,4,3.5,1824.75,8.730577465,0.0,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2003,5,2.8,2747.2,7.259789202,3.049532978,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2004,8,4.75,3129.5,8.95691449625,3.5943104825,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2005,9,4.222222222222222,2383.4444444444443,10.574662996666667,1.3777207533333333,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2006,12,1.4166666666666667,3769.9166666666665,10.8001633,4.7983453625,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2007,14,1.9285714285714286,4209.571428571428,11.33060325,6.429381820000001,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2008,19,1.3157894736842106,4142.9473684210525,11.776168163157894,6.519921426315789,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2009,15,2.1333333333333333,6445.066666666667,12.348627666666665,9.300226126666667,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2010,16,2.625,7585.875,11.32476109375,6.8217241500000005,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2011,25,3.92,8218.4,12.638265367999999,7.487101656000001,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2012,37,3.8378378378378377,7811.216216216216,12.925475927837839,9.194619835135137,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2013,38,3.8684210526315788,7399.4473684210525,13.03668251236842,9.40952716736842,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2014,55,4.581818181818182,7320.527272727273,12.711369055636363,9.06238121890909,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2015,66,4.454545454545454,7260.287878787879,12.146547520757577,8.383565795,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2016,71,3.6056338028169015,6649.591549295775,12.188701268732393,7.256214774647889,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2017,58,3.7241379310344827,6970.810344827586,12.089360741379311,7.097070748275862,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2018,46,3.5434782608695654,7885.695652173913,12.683656444565216,6.859193462608696,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
+2019,45,3.7777777777777777,12442.577777777778,12.725099319999998,10.501805582888888,False,business;mediasharing - business;mediasharing;shopping - business;mediasharing;socialnetworking - 
