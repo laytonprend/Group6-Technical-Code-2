@@ -1,0 +1,12 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2008,2,18.0,13935.0,13.46611989,15.86053751,True,games;shopping;sports
+2009,1,18.0,13935.0,13.46611989,15.86053751,True,games;shopping;sports
+2011,1,18.0,14331.0,13.40601023,15.94569857,True,games;shopping;sports
+2012,2,18.0,14331.0,13.40601023,15.94569857,True,games;shopping;sports
+2013,3,12.0,10610.66667,13.11320222,15.94569857,True,games;shopping;sports
+2014,3,6.0,6890.333333,12.82039421,15.94569857,True,games;shopping;sports
+2015,4,9.0,8750.5,12.96679822,15.94569857,True,games;shopping;sports
+2016,3,6.0,6890.333333,12.82039421,15.94569857,True,games;shopping;sports
+2017,2,18.0,14331.0,13.40601023,15.94569857,True,games;shopping;sports
+2018,2,18.0,14331.0,13.40601023,15.94569857,True,games;shopping;sports
+2019,1,18.0,14331.0,13.40601023,15.94569857,True,games;shopping;sports
