@@ -1,0 +1,17 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2004,1,3.0,2450.0,11.09100033,,True,chatandmessaging;streamingmedia
+2005,2,3.0,2674.5,10.93752496,,True,chatandmessaging;streamingmedia
+2006,4,2.5,2485.25,12.080843699999999,,True,chatandmessaging;streamingmedia
+2007,4,7.0,2981.25,12.24635798,14.06817629,True,chatandmessaging;streamingmedia
+2008,2,21.0,5082.0,11.51363609,14.06817629,True,chatandmessaging;streamingmedia
+2009,2,10.5,4748.5,12.47333537,14.45246112,True,chatandmessaging;streamingmedia
+2010,3,14.0,5247.333333,11.98032234,14.485398199999999,True,chatandmessaging;streamingmedia
+2011,3,14.0,5290.0,11.95980893,14.4353314,True,chatandmessaging;streamingmedia
+2012,8,6.375,5075.0,11.66455516,14.22526995,True,chatandmessaging;streamingmedia
+2013,17,3.8823529411764706,6753.470587999999,12.66819199,14.95234448,True,chatandmessaging;streamingmedia
+2014,23,2.782608695652174,7745.26087,12.51751667,15.07660571,True,chatandmessaging;streamingmedia
+2015,22,3.0454545454545454,7136.5909090000005,12.53676749,15.07564679,True,chatandmessaging;streamingmedia
+2016,23,2.869565217391304,6778.130434999999,12.76437051,14.98449015,True,chatandmessaging;streamingmedia
+2017,19,1.7894736842105263,8165.157895,13.46734977,15.60856934,True,chatandmessaging;streamingmedia
+2018,11,7.454545454545454,12955.0,12.41192603,14.15073711,True,chatandmessaging;streamingmedia
+2019,9,8.88888888888889,15117.22222,12.58165094,14.15004408,True,chatandmessaging;streamingmedia

@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,1,24.0,6107.0,11.11311951,13.91797589,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2001,1,22.0,4189.0,9.565396825,0.0,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2002,2,22.0,4130.5,9.642036415,0.0,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2003,1,22.0,4187.0,9.602857143,0.0,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2004,4,11.75,3854.0,12.4762663,0.0,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2005,6,8.333333333333334,3817.8333333333335,13.382910895,0.0,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2006,8,6.75,3437.375,13.34322378125,0.0,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2007,12,6.833333333333333,4763.083333333333,14.496775353333334,3.851079626666666,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2008,7,13.0,5281.0,13.58829507,6.315534597142857,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2009,8,6.5,5835.625,14.7616702125,7.7769817925,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2010,15,6.266666666666667,7503.466666666666,14.218355995333333,13.375415867333334,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2011,15,6.133333333333334,7707.0,13.615657487333332,13.561441120666668,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2012,16,4.875,5416.125,12.425873784375,10.173311785,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2013,27,4.037037037037037,6815.888888888889,13.008934612592595,10.690519903703704,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2014,30,3.0,7544.4,12.803930927333333,10.670578325000001,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2015,34,3.2058823529411766,6874.088235294118,12.86759882,10.346271752941178,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2016,38,3.3684210526315788,7100.289473684211,12.999157113947367,10.78440338394737,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2017,33,3.3333333333333335,7971.636363636364,13.29797634848485,10.847599122121213,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2018,24,7.791666666666667,12818.625,13.190663725833332,12.995394164583333,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 
+2019,16,8.25,13400.4375,12.974481814375,13.669072137499999,False,adult;chatandmessaging;streamingmedia - business;chatandmessaging;streamingmedia - chatandmessaging;streamingmedia - 

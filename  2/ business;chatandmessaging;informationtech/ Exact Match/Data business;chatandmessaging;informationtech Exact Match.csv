@@ -1,0 +1,20 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2001,2,3.0,1967.5,10.90948956,,True,business;chatandmessaging;informationtech
+2002,2,3.0,2243.5,10.79261364,,True,business;chatandmessaging;informationtech
+2003,3,2.0,2169.666667,10.44505175,,True,business;chatandmessaging;informationtech
+2004,3,2.0,2166.333333,10.26822837,,True,business;chatandmessaging;informationtech
+2005,2,3.0,2232.0,10.26214349,,True,business;chatandmessaging;informationtech
+2006,3,2.0,3101.333333,10.84910865,15.02112968,True,business;chatandmessaging;informationtech
+2007,4,1.5,3536.0,11.14259123,15.02112968,True,business;chatandmessaging;informationtech
+2008,6,1.0,2782.166667,11.04812226,15.02112968,True,business;chatandmessaging;informationtech
+2009,9,1.2222222222222223,6299.222222,12.66090571,17.44929435,True,business;chatandmessaging;informationtech
+2010,8,2.0,10660.75,14.43664387,18.05069247,True,business;chatandmessaging;informationtech
+2011,10,1.6,10775.8,13.73200935,17.09923032,True,business;chatandmessaging;informationtech
+2012,10,1.9,8894.8,13.36806378,16.70684475,True,business;chatandmessaging;informationtech
+2013,11,3.272727272727273,11403.81818,12.7190886,15.36955781,True,business;chatandmessaging;informationtech
+2014,6,1.0,10065.66667,12.35607093,15.40178153,True,business;chatandmessaging;informationtech
+2015,7,0.8571428571428571,9384.571429000001,12.52625066,15.34387676,True,business;chatandmessaging;informationtech
+2016,7,1.0,4899.857143,12.359040199999999,15.47019065,True,business;chatandmessaging;informationtech
+2017,10,4.0,22965.3,13.04814919,15.29994592,True,business;chatandmessaging;informationtech
+2018,9,3.5555555555555554,15481.11111,12.13030649,14.56877731,True,business;chatandmessaging;informationtech
+2019,9,3.111111111111111,16784.111109999998,11.95377971,14.31721728,True,business;chatandmessaging;informationtech

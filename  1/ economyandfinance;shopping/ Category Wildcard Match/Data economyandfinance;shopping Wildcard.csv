@@ -1,0 +1,21 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2000,3,0.0,2354.6666666666665,11.683268373333334,0.0,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2001,3,0.0,2957.6666666666665,12.421832116666666,0.0,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2002,2,0.0,3320.0,13.09123837,0.0,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2003,5,0.8,2752.2,7.44611928,0.0,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2004,4,0.0,2540.75,12.037596274999999,0.0,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2005,4,0.0,2240.0,12.07946012,0.0,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2006,5,0.0,4016.4,12.41015016,3.049532978,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2007,5,0.0,6164.2,12.688038588000001,3.313442994,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2008,7,1.7142857142857142,9029.0,13.054036587142857,6.962285128571429,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2009,7,1.7142857142857142,9528.42857142857,12.800177301428572,9.191080264285715,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2010,14,1.2142857142857142,11155.57142857143,12.215555885,11.472594426428572,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2011,22,2.090909090909091,9798.272727272728,12.36140139409091,11.519881002727272,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2012,30,1.5,8891.0,10.613438338333333,8.647541675333335,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2013,35,1.4857142857142858,8029.6,11.310717461142858,9.126727936857142,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2014,37,1.8918918918918919,8023.513513513513,12.123873965945947,9.815020135405407,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2015,45,1.9111111111111112,10652.31111111111,12.901883559555554,11.378301093555557,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2016,36,1.5277777777777777,9132.888888888889,13.002655910555555,9.648983106944444,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2017,35,1.0,8354.714285714286,12.562814330857142,9.322017766285713,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2018,33,1.7575757575757576,11904.09090909091,13.094141246060605,12.09684544969697,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 
+2019,36,1.5833333333333333,12125.083333333334,12.859776463055557,12.115352470555555,False,business;economyandfinance;shopping - economyandfinance;shopping - economyandfinance;shopping;travel - 

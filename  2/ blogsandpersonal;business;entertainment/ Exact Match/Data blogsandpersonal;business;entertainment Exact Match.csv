@@ -1,0 +1,14 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+2004,1,3.0,10953.0,11.89552909,14.69652958,True,blogsandpersonal;business;entertainment
+2008,4,0.0,5251.25,13.01444554,15.81774264,True,blogsandpersonal;business;entertainment
+2009,5,2.4,4359.4,12.22940272,15.66681034,True,blogsandpersonal;business;entertainment
+2010,11,3.0,6236.0,12.84813188,15.19892113,True,blogsandpersonal;business;entertainment
+2011,13,1.7692307692307692,5150.153846,12.99024331,15.26563949,True,blogsandpersonal;business;entertainment
+2012,18,2.4444444444444446,7075.055556,12.96177312,14.63481103,True,blogsandpersonal;business;entertainment
+2013,27,1.8148148148148149,6176.925926,12.8257162,14.654713899999999,True,blogsandpersonal;business;entertainment
+2014,28,1.8571428571428572,5403.857143,12.440535,14.47432829,True,blogsandpersonal;business;entertainment
+2015,27,2.1481481481481484,5945.629629999999,12.42467219,14.34002093,True,blogsandpersonal;business;entertainment
+2016,34,2.5294117647058822,7954.647059000001,12.8161025,14.94513712,True,blogsandpersonal;business;entertainment
+2017,26,2.9615384615384617,8041.692308,12.6878799,14.91335463,True,blogsandpersonal;business;entertainment
+2018,15,1.8666666666666667,10130.86667,12.64597962,14.67718709,True,blogsandpersonal;business;entertainment
+2019,22,1.6818181818181819,9471.545455,12.26139244,14.35032548,True,blogsandpersonal;business;entertainment

@@ -1,0 +1,22 @@
+year,GroupedRows,ChildCountMean,lengthMean,flesch_kincaid_Mean,smog_Mean,Exact Match?,CategoriesSearched
+1999,1,0.0,3155.0,13.50323288,0.0,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2000,3,0.0,3443.6666666666665,13.810123956666667,0.0,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2001,2,0.0,3013.0,13.695859169999999,0.0,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2002,5,0.0,3368.4,13.849210227999999,0.0,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2003,4,5.5,6278.0,13.2266765125,7.5787813925,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2004,8,2.75,6113.125,12.31616677125,8.71161354,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2005,11,2.0,6043.727272727273,13.016341831818181,7.977455094545454,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2006,10,1.6,7593.4,13.177776799999998,10.496700725999998,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2007,11,0.0,7585.363636363636,13.278924331818182,10.987804400000002,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2008,11,0.0,8237.90909090909,13.551261020909093,11.340112972727274,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2009,7,0.0,7817.571428571428,13.754038707142858,11.302366781428573,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2010,5,0.0,8513.8,14.126140745999999,12.941139505999999,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2011,8,0.0,7535.5,14.22562193125,11.86678876375,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2012,6,0.0,6804.666666666667,15.172826561666668,10.54980414,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2013,8,0.0,10664.25,14.77115651125,11.83447389125,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2014,10,0.0,10220.8,13.555680408999999,13.684922512999998,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2015,11,0.5454545454545454,10690.181818181818,13.262280243636361,15.161472980000001,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2016,15,2.3333333333333335,10025.533333333333,13.218716909999996,15.277201813333333,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2017,12,1.5,9744.666666666666,13.182145871666668,15.006260574166667,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2018,9,1.3333333333333333,10236.222222222223,13.284876106666665,14.839596172222222,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
+2019,8,3.0,11582.5,13.665946065,14.93572208875,False,business;realestate;shopping - realestate;shopping - realestate;shopping;travel - 
