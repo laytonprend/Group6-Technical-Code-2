@@ -4,36 +4,12 @@ Created on Tue Mar 15 20:21:57 2022
 
 @author: layto
 """
-#rmemeber to open SQLite3
-#PIP INSTALL SQLITE3
-#.open DB
 
-# https://visualstudio.microsoft.com/downloads/
-#Pip install fuzzywuzzy
-#Pip install python-Levenshtein
-
-#C:\Users\layto\OneDrive\Documents\GitHub\Group-6-technica-lcode\Group Project Jupyter Notebook-Year 1 Semester 2
-#import sqlite3
-#from sqlite3 import Error
 import pandas as pd
-#import numpy as np
-
-#import psutil
-#import sys
-#import traceback
-
-#import csv
-#from csv import writer
 from sklearn.utils import shuffle
-
-
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 import os#make folder
-
-#from diff_match_patch import diff_match_patch
-#fuzzymatch
 
 def MakeFolder(path):
     try: #make folders going down to savepath
@@ -46,10 +22,7 @@ def MakeFolder(path):
 def MainCode(result,SQLquery,CorrectionRequired,CatergoriesInSearch):
      plt.style.use('dark_background') 
      level=str(SQLquery.count(';'))
-   #  global path
-    # path= os.path.abspath(os.path.dirname(__file__))#temp
-     #print(11)  
-      
+
      mycodelocationpath= os.path.abspath(os.path.dirname(__file__))#+'\ Individual categories'
     
      #print('mycodelocationpath'+str(mycodelocationpath))#"C:/Users/layto/OneDrive/Documents/GitHub/Group-6-technica-lcode/"+
@@ -152,9 +125,6 @@ def makelinechart(x,y,xlabel,ylabel):
    #savelabelSQLquery=SQLquery
   # SQLquery='when categories are related to '+SQLquery 
    plt.rcParams["figure.figsize"] = (10,8)
-  # plt.bar(x = x,
-   #height = y,
-   #color = "blue")
    plt.plot(x,y,linewidth=7)
    plt.plot(x,y,'b*')
 
